@@ -1,0 +1,154 @@
+{
+  "tracks" : [ ],
+  "albums" : [ {
+    "artist" : "Lorien Testard",
+    "album" : "Clair Obscur: Expedition 33 - Nos vies en Lumière (Original Soundtrack)",
+    "uri" : "spotify:album:2urhSHmCuo86uBSBxGJ4mT"
+  }, {
+    "artist" : "Lorien Testard",
+    "album" : "Clair Obscur: Expedition 33 (Original Soundtrack)",
+    "uri" : "spotify:album:5epJvt9jHbYI1j6WqCppGc"
+  } ],
+  "shows" : [ ],
+  "episodes" : [ ],
+  "bannedTracks" : [ ],
+  "artists" : [ {
+    "name" : "AJR",
+    "uri" : "spotify:artist:6s22t5Y3prQHyaHWUN1R1C"
+  }, {
+    "name" : "BoyWithUke",
+    "uri" : "spotify:artist:1Cd373x8qzC7SNUg5IToqp"
+  }, {
+    "name" : "Bruno Mars",
+    "uri" : "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+  }, {
+    "name" : "Capital Cities",
+    "uri" : "spotify:artist:4gwpcMTbLWtBUlOijbVpuu"
+  }, {
+    "name" : "Coldplay",
+    "uri" : "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+  }, {
+    "name" : "Connor Kauffman",
+    "uri" : "spotify:artist:0bFEOKy3T1knA0g7ZaPnHe"
+  }, {
+    "name" : "Creepy Nuts",
+    "uri" : "spotify:artist:0pWR7TsFhvSCnbmHDjWgrE"
+  }, {
+    "name" : "ENHYPEN",
+    "uri" : "spotify:artist:5t5FqBwTcgKTaWmfEbwQY9"
+  }, {
+    "name" : "Eve",
+    "uri" : "spotify:artist:58oPVy7oihAEXE0Ott6JOf"
+  }, {
+    "name" : "Good Kid",
+    "uri" : "spotify:artist:38SKxCyfrmNWqWunb9wGHP"
+  }, {
+    "name" : "Hatsune Miku",
+    "uri" : "spotify:artist:6pNgnvzBa6Bthsv8SrZJYl"
+  }, {
+    "name" : "Imagine Dragons",
+    "uri" : "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+  }, {
+    "name" : "Jagwar Twin",
+    "uri" : "spotify:artist:4luZExkmgn39Kj5XsYWria"
+  }, {
+    "name" : "Johnny Huynh",
+    "uri" : "spotify:artist:7qX6R9NU7sWD66KLlYKnju"
+  }, {
+    "name" : "Jonas Brothers",
+    "uri" : "spotify:artist:7gOdHgIoIKoe4i9Tta6qdD"
+  }, {
+    "name" : "Kanaria",
+    "uri" : "spotify:artist:1k5LyiTCRzPjORzcgHqJxF"
+  }, {
+    "name" : "Kasane Teto",
+    "uri" : "spotify:artist:4JX0GdKx8EduY2Ck7qac4H"
+  }, {
+    "name" : "Kenshi Yonezu",
+    "uri" : "spotify:artist:1snhtMLeb2DYoMOcVbb8iB"
+  }, {
+    "name" : "King Gnu",
+    "uri" : "spotify:artist:6wxfx1yhyqjCPYwwxJktR2"
+  }, {
+    "name" : "Koven Wei",
+    "uri" : "spotify:artist:2pkpqIb8x2VvL9NFeche19"
+  }, {
+    "name" : "MICO",
+    "uri" : "spotify:artist:0wajW5BBnk40YAhJdTkrrG"
+  }, {
+    "name" : "Marino",
+    "uri" : "spotify:artist:3HedFe4b2Nqeg1CEzmt6ZI"
+  }, {
+    "name" : "Maroon 5",
+    "uri" : "spotify:artist:04gDigrS5kc9YWfZHwBETP"
+  }, {
+    "name" : "NewJeans",
+    "uri" : "spotify:artist:6HvZYsbFfjnjFrWF950C9d"
+  }, {
+    "name" : "One Direction",
+    "uri" : "spotify:artist:4AK6F7OLvEQ5QYCBNiQWHq"
+  }, {
+    "name" : "OneRepublic",
+    "uri" : "spotify:artist:5Pwc4xIPtQLFEnJriah9YJ"
+  }, {
+    "name" : "Poor Man's Poison",
+    "uri" : "spotify:artist:0YHgnSkV3S5mvSSCTRWDi5"
+  }, {
+    "name" : "Post Malone",
+    "uri" : "spotify:artist:246dkjvS1zLTtiykXe5h60"
+  }, {
+    "name" : "Prinz",
+    "uri" : "spotify:artist:0tOWWVeVRQUE7nS0J43Zm9"
+  }, {
+    "name" : "Stellar",
+    "uri" : "spotify:artist:5yw4tA8D5uG7tT3NaDvq10"
+  }, {
+    "name" : "TOMORROW X TOGETHER",
+    "uri" : "spotify:artist:0ghlgldX5Dd6720Q3qFyQB"
+  }, {
+    "name" : "The Living Tombstone",
+    "uri" : "spotify:artist:0I6yADrmeyvw66g7yjkqIF"
+  }, {
+    "name" : "The Weeknd",
+    "uri" : "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+  }, {
+    "name" : "Travis Scott",
+    "uri" : "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+  }, {
+    "name" : "Twenty One Pilots",
+    "uri" : "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+  }, {
+    "name" : "VALORANT",
+    "uri" : "spotify:artist:3wrFoI9EVjWg6m8xXeWr5t"
+  }, {
+    "name" : "WALK THE MOON",
+    "uri" : "spotify:artist:6DIS6PRrLS3wbnZsf7vYic"
+  }, {
+    "name" : "YOASOBI",
+    "uri" : "spotify:artist:64tJ2EAv1R6UaZqc4iOCyj"
+  }, {
+    "name" : "Yoko Shimomura",
+    "uri" : "spotify:artist:2uDsUIyCIqk9wKj17I8WAH"
+  }, {
+    "name" : "ZUTOMAYO",
+    "uri" : "spotify:artist:38WbKH6oKAZskBhqDFA8Uj"
+  }, {
+    "name" : "aespa",
+    "uri" : "spotify:artist:6YVMFz59CuY7ngCxTxjpxE"
+  }, {
+    "name" : "again&again",
+    "uri" : "spotify:artist:3CIq9N0VQGWfBpCAMzMZZN"
+  }, {
+    "name" : "imase",
+    "uri" : "spotify:artist:4TaSvnT5o4REFwhqfrmK27"
+  }, {
+    "name" : "natori",
+    "uri" : "spotify:artist:6WmXWHmfBMhupyIs8MSqtu"
+  }, {
+    "name" : "ヨルシカ",
+    "uri" : "spotify:artist:4UK2Lzi6fBfUi9rpDt6cik"
+  } ],
+  "bannedArtists" : [ ],
+  "pageMatch" : [ ],
+  "other" : [ ]
+}

@@ -1,0 +1,19 @@
+{
+  "festivalId" : "govball2026",
+  "userId" : "3a4da390f8ee4b768286b552bef2ef13",
+  "totalArtistsMatched" : 10,
+  "userLineupMatchPercentile" : 44,
+  "festivalPersona" : "THE CROWD FAVORITE",
+  "topArtists" : [ {
+    "name" : "Stray Kids"
+  }, {
+    "name" : "Dominic Fike"
+  }, {
+    "name" : "KATSEYE"
+  }, {
+    "name" : "JENNIE"
+  }, {
+    "name" : "Pierce The Veil"
+  } ],
+  "topDiscoveryArtists" : [ ]
+}

@@ -1,0 +1,416 @@
+{
+  "stats" : [ {
+    "date" : "2026-02-02",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Dawnbreaker (English Ver.)",
+      "streamCount" : 3,
+      "secondsPlayed" : 298
+    }, {
+      "name" : "Amusement Park",
+      "streamCount" : 2,
+      "secondsPlayed" : 758
+    }, {
+      "name" : "Afterlife (from the Netflix Series \"Devil May Cry\")",
+      "streamCount" : 2,
+      "secondsPlayed" : 499
+    }, {
+      "name" : "The Tower",
+      "streamCount" : 2,
+      "secondsPlayed" : 464
+    }, {
+      "name" : "Voice of no Return - Guitar",
+      "streamCount" : 2,
+      "secondsPlayed" : 462
+    }, {
+      "name" : "Gustave",
+      "streamCount" : 2,
+      "secondsPlayed" : 456
+    }, {
+      "name" : "Hikari - 游戏《战双帕弥什: 九龙环城》主题曲",
+      "streamCount" : 2,
+      "secondsPlayed" : 452
+    }, {
+      "name" : "セレナーデ",
+      "streamCount" : 2,
+      "secondsPlayed" : 438
+    }, {
+      "name" : "Vague Hope - Cold Rain",
+      "streamCount" : 2,
+      "secondsPlayed" : 432
+    }, {
+      "name" : "AIZO",
+      "streamCount" : 2,
+      "secondsPlayed" : 430
+    } ],
+    "topArtists" : [ {
+      "name" : "Wuthering Waves",
+      "streamCount" : 23,
+      "secondsPlayed" : 4564
+    }, {
+      "name" : "Lorien Testard",
+      "streamCount" : 21,
+      "secondsPlayed" : 4124
+    }, {
+      "name" : "岡部啓一",
+      "streamCount" : 20,
+      "secondsPlayed" : 5372
+    }, {
+      "name" : "Good Kid",
+      "streamCount" : 14,
+      "secondsPlayed" : 2197
+    }, {
+      "name" : "Vanguard Sound",
+      "streamCount" : 13,
+      "secondsPlayed" : 2704
+    }, {
+      "name" : "Chamber Chu",
+      "streamCount" : 13,
+      "secondsPlayed" : 1784
+    }, {
+      "name" : "帆足圭吾",
+      "streamCount" : 12,
+      "secondsPlayed" : 3307
+    }, {
+      "name" : "西浦智仁",
+      "streamCount" : 10,
+      "secondsPlayed" : 1724
+    }, {
+      "name" : "SQUARE ENIX MUSIC",
+      "streamCount" : 9,
+      "secondsPlayed" : 2091
+    }, {
+      "name" : "Friday Pilots Club",
+      "streamCount" : 9,
+      "secondsPlayed" : 1619
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-01-26",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Troublemaker",
+      "streamCount" : 3,
+      "secondsPlayed" : 612
+    }, {
+      "name" : "Ride or Die",
+      "streamCount" : 3,
+      "secondsPlayed" : 414
+    }, {
+      "name" : "BIRDBRAIN",
+      "streamCount" : 3,
+      "secondsPlayed" : 768
+    }, {
+      "name" : "GET TO ME",
+      "streamCount" : 3,
+      "secondsPlayed" : 657
+    }, {
+      "name" : "keep it in the dark",
+      "streamCount" : 3,
+      "secondsPlayed" : 579
+    }, {
+      "name" : "hobbies",
+      "streamCount" : 3,
+      "secondsPlayed" : 561
+    }, {
+      "name" : "EVERYTHING IS RED",
+      "streamCount" : 3,
+      "secondsPlayed" : 414
+    }, {
+      "name" : "Death Of Me",
+      "streamCount" : 3,
+      "secondsPlayed" : 340
+    }, {
+      "name" : "Cold Feet",
+      "streamCount" : 2,
+      "secondsPlayed" : 238
+    }, {
+      "name" : "The Phoenix",
+      "streamCount" : 2,
+      "secondsPlayed" : 488
+    } ],
+    "topArtists" : [ {
+      "name" : "MICO",
+      "streamCount" : 16,
+      "secondsPlayed" : 2738
+    }, {
+      "name" : "Koven Wei",
+      "streamCount" : 15,
+      "secondsPlayed" : 2465
+    }, {
+      "name" : "Black Pontiac",
+      "streamCount" : 11,
+      "secondsPlayed" : 2199
+    }, {
+      "name" : "Logan Levi",
+      "streamCount" : 10,
+      "secondsPlayed" : 1902
+    }, {
+      "name" : "The Vanished People",
+      "streamCount" : 11,
+      "secondsPlayed" : 1741
+    }, {
+      "name" : "Good Kid",
+      "streamCount" : 10,
+      "secondsPlayed" : 1728
+    }, {
+      "name" : "Aleyna Moon",
+      "streamCount" : 9,
+      "secondsPlayed" : 1685
+    }, {
+      "name" : "Pleaser",
+      "streamCount" : 9,
+      "secondsPlayed" : 1535
+    }, {
+      "name" : "Modern Alibi",
+      "streamCount" : 8,
+      "secondsPlayed" : 1302
+    }, {
+      "name" : "Kevin Walkman",
+      "streamCount" : 7,
+      "secondsPlayed" : 1325
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-01-19",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Seventh Heaven",
+      "streamCount" : 3,
+      "secondsPlayed" : 455
+    }, {
+      "name" : "IT'S GOING DOWN",
+      "streamCount" : 3,
+      "secondsPlayed" : 238
+    }, {
+      "name" : "heartbreaker",
+      "streamCount" : 3,
+      "secondsPlayed" : 540
+    }, {
+      "name" : "Bones",
+      "streamCount" : 3,
+      "secondsPlayed" : 495
+    }, {
+      "name" : "Bad Liar",
+      "streamCount" : 2,
+      "secondsPlayed" : 521
+    }, {
+      "name" : "A Beautiful Song",
+      "streamCount" : 2,
+      "secondsPlayed" : 491
+    }, {
+      "name" : "Sugar",
+      "streamCount" : 2,
+      "secondsPlayed" : 422
+    }, {
+      "name" : "Tsunami",
+      "streamCount" : 2,
+      "secondsPlayed" : 420
+    }, {
+      "name" : "Riptide",
+      "streamCount" : 2,
+      "secondsPlayed" : 408
+    }, {
+      "name" : "Your Idol",
+      "streamCount" : 2,
+      "secondsPlayed" : 383
+    } ],
+    "topArtists" : [ {
+      "name" : "MICO",
+      "streamCount" : 16,
+      "secondsPlayed" : 2614
+    }, {
+      "name" : "The Vanished People",
+      "streamCount" : 15,
+      "secondsPlayed" : 2421
+    }, {
+      "name" : "John Michael Howell",
+      "streamCount" : 14,
+      "secondsPlayed" : 1983
+    }, {
+      "name" : "Koven Wei",
+      "streamCount" : 14,
+      "secondsPlayed" : 2356
+    }, {
+      "name" : "Marino",
+      "streamCount" : 13,
+      "secondsPlayed" : 1514
+    }, {
+      "name" : "Black Pontiac",
+      "streamCount" : 12,
+      "secondsPlayed" : 2387
+    }, {
+      "name" : "Friday Pilots Club",
+      "streamCount" : 12,
+      "secondsPlayed" : 2002
+    }, {
+      "name" : "again&again",
+      "streamCount" : 12,
+      "secondsPlayed" : 1836
+    }, {
+      "name" : "Kevin Walkman",
+      "streamCount" : 8,
+      "secondsPlayed" : 1503
+    }, {
+      "name" : "BoyWithUke",
+      "streamCount" : 8,
+      "secondsPlayed" : 1446
+    } ],
+    "topGenres" : [ ]
+  } ],
+  "highlights" : [ {
+    "date" : "2026-02-08",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "Sweat and Sunshine",
+      "country" : "US",
+      "position" : 1883
+    }
+  }, {
+    "date" : "2026-02-01",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "spotify:playlist:37i9dQZF1EQncLwOalG3K7",
+      "listeningPercentage" : 41.883409626855325
+    }
+  }, {
+    "date" : "2026-01-25",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Friday Pilots Club",
+      "dayStreaks" : 5
+    }
+  }, {
+    "date" : "2026-01-18",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Ado", "natori", "9Lana", "AIZO", "Critical Clash II", "Critical Clash I", "ホロネス", "ヒステリックナイトガール", "DROP" ],
+      "milestoneListeningSeconds" : 34737
+    }
+  }, {
+    "date" : "2026-01-11",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "Jay mix",
+      "listeningPercentage" : 78.26654105369954
+    }
+  }, {
+    "date" : "2026-01-04",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "Zombie",
+      "country" : "US",
+      "position" : 2353
+    }
+  }, {
+    "date" : "2025-12-28",
+    "highlightType" : "MILESTONE",
+    "milestoneHighlight" : {
+      "entity" : "Jay mix",
+      "milestoneListeningSeconds" : 23243
+    }
+  }, {
+    "date" : "2025-12-21",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Lorien Testard",
+      "dayStreaks" : 6
+    }
+  }, {
+    "date" : "2025-12-14",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Black Pontiac",
+      "dayStreaks" : 4
+    }
+  }, {
+    "date" : "2025-12-07",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "balloon",
+      "secondEntity" : "Cal Scruby"
+    }
+  }, {
+    "date" : "2025-11-30",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "Jay mix",
+      "listeningPercentage" : 89.93067472029652
+    }
+  }, {
+    "date" : "2025-11-23",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "Jay mix",
+      "listeningPercentage" : 73.13883299798792
+    }
+  }, {
+    "date" : "2025-11-16",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Lorien Testard", "Yoko Shimomura", "Alice Duport-Percier", "We Lost", "I Really Want to Stay at Your House", "Voice of no Return - Guitar", "For Those Who Come After", "New Type of Hero - 《凸变英雄X》动画原声带", "Vector to the Heavens - Xion-" ],
+      "milestoneListeningSeconds" : 30759
+    }
+  }, {
+    "date" : "2025-11-09",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "spotify:playlist:37i9dQZF1EQpj7X7UK8OOF",
+      "listeningPercentage" : 69.26549035699631
+    }
+  }, {
+    "date" : "2025-11-02",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "ENHYPEN",
+      "dayStreaks" : 4
+    }
+  }, {
+    "date" : "2025-10-26",
+    "highlightType" : "MILESTONE",
+    "milestoneHighlight" : {
+      "entity" : "Lorien Testard",
+      "milestoneListeningSeconds" : 18898
+    }
+  }, {
+    "date" : "2025-10-19",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "Lorien Testard",
+      "listeningPercentage" : 48.1858407079646
+    }
+  }, {
+    "date" : "2025-10-12",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Ado",
+      "dayStreaks" : 5
+    }
+  }, {
+    "date" : "2025-10-05",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "INOHA",
+      "secondEntity" : "Rafa Ramos Sania"
+    }
+  }, {
+    "date" : "2025-09-28",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "CAT'S EYE",
+      "country" : "US",
+      "position" : 3310
+    }
+  }, {
+    "date" : "2025-09-21",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "Ever After (feat. eaJ)",
+      "country" : "US",
+      "position" : 6879
+    }
+  } ]
+}

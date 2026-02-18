@@ -1,0 +1,3591 @@
+[ {
+  "platform" : "",
+  "searchTime" : "2025-11-20T14:16:12.666Z[UTC]",
+  "searchQuery" : "s",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-20T14:16:12.968Z[UTC]",
+  "searchQuery" : "sp",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-20T14:16:14.159Z[UTC]",
+  "searchQuery" : "spotif",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-20T14:16:15.747Z[UTC]",
+  "searchQuery" : "spotify",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "ANDROID",
+  "searchTime" : "2025-11-20T14:16:17.097Z[UTC]",
+  "searchQuery" : "spotify ja",
+  "searchInteractionURIs" : [ "spotify:search:spotify+jam" ]
+}, {
+  "platform" : "ANDROID",
+  "searchTime" : "2025-11-20T14:16:18.367Z[UTC]",
+  "searchQuery" : "spotify jam",
+  "searchInteractionURIs" : [ "spotify:playlist:37i9dQZF1EXwl6HWsuftIN", "spotify:playlist:37i9dQZF1EIdAJQPkhbzRM", "spotify:playlist:37i9dQZF1EIdjWr4YEzRXS", "spotify:user:73zd2gqztli604s4eypd7rsox" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-20T23:29:12.285Z[UTC]",
+  "searchQuery" : "im",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "ANDROID_ARM",
+  "searchTime" : "2025-11-20T23:29:12.405Z[UTC]",
+  "searchQuery" : "i",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-20T23:29:12.478Z[UTC]",
+  "searchQuery" : "imo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-20T23:29:12.890Z[UTC]",
+  "searchQuery" : "imoha",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-20T23:29:13.251Z[UTC]",
+  "searchQuery" : "imoh",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-20T23:29:13.342Z[UTC]",
+  "searchQuery" : "imo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "ANDROID_ARM",
+  "searchTime" : "2025-11-20T23:29:13.830Z[UTC]",
+  "searchQuery" : "im",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-20T23:29:14.278Z[UTC]",
+  "searchQuery" : "in",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-20T23:29:14.758Z[UTC]",
+  "searchQuery" : "inoh",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "ANDROID",
+  "searchTime" : "2025-11-20T23:29:15.003Z[UTC]",
+  "searchQuery" : "inoha",
+  "searchInteractionURIs" : [ "spotify:artist:0uoN6ea8SXzhV7WxyrvT1h" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-20T23:50:32.085Z[UTC]",
+  "searchQuery" : "fi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "ANDROID",
+  "searchTime" : "2025-11-20T23:50:32.475Z[UTC]",
+  "searchQuery" : "fid",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "ANDROID",
+  "searchTime" : "2025-11-20T23:50:34.698Z[UTC]",
+  "searchQuery" : "for ",
+  "searchInteractionURIs" : [ "spotify:search:for+those+who+come+after" ]
+}, {
+  "platform" : "ANDROID",
+  "searchTime" : "2025-11-20T23:50:35.942Z[UTC]",
+  "searchQuery" : "for those who come after",
+  "searchInteractionURIs" : [ "spotify:playlist:5opcjCWV7294kj8MMIBeDS" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-20T23:53:56.888Z[UTC]",
+  "searchQuery" : "for those who come after",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-20T23:55:09.726Z[UTC]",
+  "searchQuery" : "f",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-20T23:55:10.296Z[UTC]",
+  "searchQuery" : "for",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "ANDROID",
+  "searchTime" : "2025-11-20T23:55:11.899Z[UTC]",
+  "searchQuery" : "for those who come after",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "ANDROID",
+  "searchTime" : "2025-11-21T00:02:22.899Z[UTC]",
+  "searchQuery" : "for those who come after",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:16:03.394Z[UTC]",
+  "searchQuery" : "f",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "ANDROID",
+  "searchTime" : "2025-11-21T00:16:04.147Z[UTC]",
+  "searchQuery" : "fog",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "ANDROID",
+  "searchTime" : "2025-11-21T00:16:05.582Z[UTC]",
+  "searchQuery" : "fo",
+  "searchInteractionURIs" : [ "spotify:search:for+those+who+come+after" ]
+}, {
+  "platform" : "ANDROID",
+  "searchTime" : "2025-11-21T00:16:07.051Z[UTC]",
+  "searchQuery" : "for those who come after",
+  "searchInteractionURIs" : [ "spotify:track:5oK6A66SsPt1TA66BGjnSX" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:16:18.930Z[UTC]",
+  "searchQuery" : "st",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:16:19.352Z[UTC]",
+  "searchQuery" : "stel",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:16:19.493Z[UTC]",
+  "searchQuery" : "stell",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:16:19.614Z[UTC]",
+  "searchQuery" : "stella",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "ANDROID",
+  "searchTime" : "2025-11-21T00:16:20.174Z[UTC]",
+  "searchQuery" : "stellar",
+  "searchInteractionURIs" : [ "spotify:search:stellar" ]
+}, {
+  "platform" : "ANDROID",
+  "searchTime" : "2025-11-21T00:16:21.439Z[UTC]",
+  "searchQuery" : "stellar",
+  "searchInteractionURIs" : [ "spotify:artist:5yw4tA8D5uG7tT3NaDvq10" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:18:19.077Z[UTC]",
+  "searchQuery" : "nd",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:18:19.543Z[UTC]",
+  "searchQuery" : "n",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:18:19.974Z[UTC]",
+  "searchQuery" : "new",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:18:20.676Z[UTC]",
+  "searchQuery" : "new t",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:18:20.812Z[UTC]",
+  "searchQuery" : "new ty",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:18:21.048Z[UTC]",
+  "searchQuery" : "new typ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:18:21.150Z[UTC]",
+  "searchQuery" : "new type",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:18:21.568Z[UTC]",
+  "searchQuery" : "new type o",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "ANDROID",
+  "searchTime" : "2025-11-21T00:18:21.792Z[UTC]",
+  "searchQuery" : "new type of",
+  "searchInteractionURIs" : [ "spotify:track:5ShUqjq6BDhmOJEE6Bc13u" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:18:34.470Z[UTC]",
+  "searchQuery" : "new typ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:18:34.473Z[UTC]",
+  "searchQuery" : "new type",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:18:34.532Z[UTC]",
+  "searchQuery" : "new ty",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:18:34.588Z[UTC]",
+  "searchQuery" : "new t",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:18:34.625Z[UTC]",
+  "searchQuery" : "new ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "ANDROID_ARM",
+  "searchTime" : "2025-11-21T00:18:34.636Z[UTC]",
+  "searchQuery" : "new type ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:18:34.689Z[UTC]",
+  "searchQuery" : "new",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:18:34.747Z[UTC]",
+  "searchQuery" : "ne",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "ANDROID_ARM",
+  "searchTime" : "2025-11-21T00:18:35.157Z[UTC]",
+  "searchQuery" : "n",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:18:35.932Z[UTC]",
+  "searchQuery" : "pu",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:18:36.124Z[UTC]",
+  "searchQuery" : "pup",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "ANDROID",
+  "searchTime" : "2025-11-21T00:18:36.329Z[UTC]",
+  "searchQuery" : "pupp",
+  "searchInteractionURIs" : [ "spotify:track:5EphWkRuqee9EE3Ubm1XCy", "spotify:artist:4BqK6JLgMwQ99hx85DxNhP" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:18:53.094Z[UTC]",
+  "searchQuery" : "pu",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "ANDROID_ARM",
+  "searchTime" : "2025-11-21T00:18:53.175Z[UTC]",
+  "searchQuery" : "pup",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:18:53.236Z[UTC]",
+  "searchQuery" : "p",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:18:54.494Z[UTC]",
+  "searchQuery" : "ci",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:18:54.753Z[UTC]",
+  "searchQuery" : "cit",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:18:54.961Z[UTC]",
+  "searchQuery" : "city",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "ANDROID_ARM",
+  "searchTime" : "2025-11-21T00:18:55.418Z[UTC]",
+  "searchQuery" : "city ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "ANDROID",
+  "searchTime" : "2025-11-21T00:18:55.717Z[UTC]",
+  "searchQuery" : "city of",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:18:57.022Z[UTC]",
+  "searchQuery" : "city o",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:18:58.275Z[UTC]",
+  "searchQuery" : "city",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:18:58.429Z[UTC]",
+  "searchQuery" : "cit",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:18:58.602Z[UTC]",
+  "searchQuery" : "ci",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:19:02.149Z[UTC]",
+  "searchQuery" : "2",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "ANDROID",
+  "searchTime" : "2025-11-21T00:19:03.185Z[UTC]",
+  "searchQuery" : "21 p",
+  "searchInteractionURIs" : [ "spotify:artist:3YQKmKGau1PzlVlkL1iodx" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:19:14.253Z[UTC]",
+  "searchQuery" : "van",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "ANDROID",
+  "searchTime" : "2025-11-21T00:19:14.470Z[UTC]",
+  "searchQuery" : "vani",
+  "searchInteractionURIs" : [ "spotify:artist:3EogvEV9nc7Av6ngy8CIeJ" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:35:46.300Z[UTC]",
+  "searchQuery" : "l",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:35:46.459Z[UTC]",
+  "searchQuery" : "lo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "ANDROID",
+  "searchTime" : "2025-11-21T00:35:47.462Z[UTC]",
+  "searchQuery" : "loin ",
+  "searchInteractionURIs" : [ "spotify:track:1bIpDMU3PTa0EyYrglQlad" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:51:40.090Z[UTC]",
+  "searchQuery" : "rain fm",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:51:40.277Z[UTC]",
+  "searchQuery" : "rain fmab",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:51:40.413Z[UTC]",
+  "searchQuery" : "rain fm",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:51:40.588Z[UTC]",
+  "searchQuery" : "rain fmab",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:58:38.213Z[UTC]",
+  "searchQuery" : "de",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:58:38.440Z[UTC]",
+  "searchQuery" : "deo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:58:38.489Z[UTC]",
+  "searchQuery" : "de",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:58:38.677Z[UTC]",
+  "searchQuery" : "deo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:58:38.694Z[UTC]",
+  "searchQuery" : "deo ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:58:38.938Z[UTC]",
+  "searchQuery" : "deo ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:58:39.197Z[UTC]",
+  "searchQuery" : "deo 2",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:58:39.533Z[UTC]",
+  "searchQuery" : "deo 2",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:58:39.985Z[UTC]",
+  "searchQuery" : "deco",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:58:40.239Z[UTC]",
+  "searchQuery" : "deco",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:58:40.546Z[UTC]",
+  "searchQuery" : "deco ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:58:40.798Z[UTC]",
+  "searchQuery" : "deco ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:58:41.024Z[UTC]",
+  "searchQuery" : "deco 2",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:58:41.259Z[UTC]",
+  "searchQuery" : "deco 2",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2025-11-21T00:58:41.533Z[UTC]",
+  "searchQuery" : "deco 27",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-21T00:58:41.576Z[UTC]",
+  "searchQuery" : "deco 27",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-22T19:14:12.427Z[UTC]",
+  "searchQuery" : "mr ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-22T19:14:12.698Z[UTC]",
+  "searchQuery" : "mr ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-22T19:14:13.326Z[UTC]",
+  "searchQuery" : "mr brightside",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-22T19:14:13.594Z[UTC]",
+  "searchQuery" : "mr brightside",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-22T19:15:56.828Z[UTC]",
+  "searchQuery" : " mi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-22T19:15:57.132Z[UTC]",
+  "searchQuery" : " mi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-22T19:15:57.899Z[UTC]",
+  "searchQuery" : " i",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-22T19:15:58.196Z[UTC]",
+  "searchQuery" : " i ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-22T19:15:58.199Z[UTC]",
+  "searchQuery" : " i",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-22T19:15:58.469Z[UTC]",
+  "searchQuery" : " i ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-22T19:15:58.772Z[UTC]",
+  "searchQuery" : " i mi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-22T19:15:59.114Z[UTC]",
+  "searchQuery" : " i mi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-22T19:15:59.325Z[UTC]",
+  "searchQuery" : " i mid",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2025-11-22T19:15:59.729Z[UTC]",
+  "searchQuery" : " i mid",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-22T19:16:01.512Z[UTC]",
+  "searchQuery" : " i miss ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-22T19:16:01.861Z[UTC]",
+  "searchQuery" : " i miss ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-22T19:16:01.964Z[UTC]",
+  "searchQuery" : " i miss y",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-22T19:16:02.396Z[UTC]",
+  "searchQuery" : " i miss y",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2025-11-22T19:16:03.056Z[UTC]",
+  "searchQuery" : " i miss you",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-22T19:16:03.116Z[UTC]",
+  "searchQuery" : " i miss you",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2025-11-22T19:16:34.226Z[UTC]",
+  "searchQuery" : "i",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-22T19:16:34.265Z[UTC]",
+  "searchQuery" : "i",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2025-11-22T19:16:34.595Z[UTC]",
+  "searchQuery" : "ir",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-22T19:16:34.625Z[UTC]",
+  "searchQuery" : "iri",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-22T19:16:34.640Z[UTC]",
+  "searchQuery" : "ir",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-22T19:16:34.883Z[UTC]",
+  "searchQuery" : "iri",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-22T19:16:35.003Z[UTC]",
+  "searchQuery" : "iris",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2025-11-22T19:16:35.463Z[UTC]",
+  "searchQuery" : "iris",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2025-11-22T19:16:45.678Z[UTC]",
+  "searchQuery" : "bo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-22T19:16:45.728Z[UTC]",
+  "searchQuery" : "bo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2025-11-22T19:16:46.054Z[UTC]",
+  "searchQuery" : "bod",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-22T19:16:46.097Z[UTC]",
+  "searchQuery" : "bod",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-22T19:16:46.402Z[UTC]",
+  "searchQuery" : "body ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2025-11-22T19:16:46.830Z[UTC]",
+  "searchQuery" : "body ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-22T19:16:47.634Z[UTC]",
+  "searchQuery" : "body f",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-22T19:16:47.930Z[UTC]",
+  "searchQuery" : "body f",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-22T19:16:48.410Z[UTC]",
+  "searchQuery" : "body full ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-22T19:16:48.745Z[UTC]",
+  "searchQuery" : "body full ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-22T19:16:48.873Z[UTC]",
+  "searchQuery" : "body full o",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-22T19:16:49.218Z[UTC]",
+  "searchQuery" : "body full o",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-22T19:16:49.342Z[UTC]",
+  "searchQuery" : "body full o ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-22T19:16:49.601Z[UTC]",
+  "searchQuery" : "body full o ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-22T19:16:50.418Z[UTC]",
+  "searchQuery" : "body full of",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-22T19:16:50.763Z[UTC]",
+  "searchQuery" : "body full of",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-22T19:16:50.852Z[UTC]",
+  "searchQuery" : "body full of ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-22T19:16:51.219Z[UTC]",
+  "searchQuery" : "body full of ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-23T01:18:39.188Z[UTC]",
+  "searchQuery" : "riptide",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-23T01:18:39.458Z[UTC]",
+  "searchQuery" : "riptide",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-25T13:28:28.230Z[UTC]",
+  "searchQuery" : "bl",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-25T13:28:28.388Z[UTC]",
+  "searchQuery" : "blo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-25T13:28:29.447Z[UTC]",
+  "searchQuery" : "blood",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-25T13:28:31.139Z[UTC]",
+  "searchQuery" : "blood in",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-25T13:28:32.642Z[UTC]",
+  "searchQuery" : "blood in t",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-25T13:28:32.831Z[UTC]",
+  "searchQuery" : "blood in th",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-25T13:28:33.124Z[UTC]",
+  "searchQuery" : "blood in the",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-25T13:28:34.996Z[UTC]",
+  "searchQuery" : "blood in the wat",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-25T13:28:35.276Z[UTC]",
+  "searchQuery" : "blood in the wate",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "ANDROID",
+  "searchTime" : "2025-11-25T13:28:35.725Z[UTC]",
+  "searchQuery" : "blood in the water",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WEBPLAYER",
+  "searchTime" : "2025-11-25T20:01:08.899Z[UTC]",
+  "searchQuery" : "fo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WEBPLAYER",
+  "searchTime" : "2025-11-25T20:01:08.917Z[UTC]",
+  "searchQuery" : "f",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-25T20:01:08.943Z[UTC]",
+  "searchQuery" : "fo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-25T20:01:08.959Z[UTC]",
+  "searchQuery" : "for",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-25T20:01:08.963Z[UTC]",
+  "searchQuery" : "f",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-25T20:01:09.209Z[UTC]",
+  "searchQuery" : "for ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-25T20:01:09.260Z[UTC]",
+  "searchQuery" : "for",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-25T20:01:09.459Z[UTC]",
+  "searchQuery" : "for th",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-25T20:01:09.488Z[UTC]",
+  "searchQuery" : "for ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-25T20:01:09.673Z[UTC]",
+  "searchQuery" : "for thos",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-25T20:01:09.763Z[UTC]",
+  "searchQuery" : "for th",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-25T20:01:09.921Z[UTC]",
+  "searchQuery" : "for those w",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-25T20:01:09.996Z[UTC]",
+  "searchQuery" : "for thos",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-25T20:01:10.140Z[UTC]",
+  "searchQuery" : "for those wh",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-25T20:01:10.242Z[UTC]",
+  "searchQuery" : "for those w",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-25T20:01:10.374Z[UTC]",
+  "searchQuery" : "for those who ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-25T20:01:10.494Z[UTC]",
+  "searchQuery" : "for those wh",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-25T20:01:10.677Z[UTC]",
+  "searchQuery" : "for those who co",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-25T20:01:10.750Z[UTC]",
+  "searchQuery" : "for those who ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-25T20:01:10.885Z[UTC]",
+  "searchQuery" : "for those who come ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-25T20:01:11.044Z[UTC]",
+  "searchQuery" : "for those who co",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-25T20:01:11.127Z[UTC]",
+  "searchQuery" : "for those who come a",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-25T20:01:11.196Z[UTC]",
+  "searchQuery" : "for those who come ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-25T20:01:11.300Z[UTC]",
+  "searchQuery" : "for those who come af",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-25T20:01:11.473Z[UTC]",
+  "searchQuery" : "for those who come a",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-25T20:01:11.506Z[UTC]",
+  "searchQuery" : "for those who come afte",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-25T20:01:11.665Z[UTC]",
+  "searchQuery" : "for those who come af",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-25T20:01:11.847Z[UTC]",
+  "searchQuery" : "for those who come afte",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WEBPLAYER",
+  "searchTime" : "2025-11-25T20:01:12.013Z[UTC]",
+  "searchQuery" : "for those who come after",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-25T20:01:12.057Z[UTC]",
+  "searchQuery" : "for those who come after",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WEBPLAYER",
+  "searchTime" : "2025-11-25T20:01:12.350Z[UTC]",
+  "searchQuery" : "for those who come after",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-25T20:01:12.413Z[UTC]",
+  "searchQuery" : "for those who come after",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-06T00:09:56.192Z[UTC]",
+  "searchQuery" : "nightcore",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-06T00:09:56.491Z[UTC]",
+  "searchQuery" : "nightcore",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-06T00:11:29.084Z[UTC]",
+  "searchQuery" : "ni",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-06T00:11:29.377Z[UTC]",
+  "searchQuery" : "ni",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-06T00:11:29.549Z[UTC]",
+  "searchQuery" : "night",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-06T00:11:29.802Z[UTC]",
+  "searchQuery" : "night",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-06T00:11:30.182Z[UTC]",
+  "searchQuery" : "nightcore ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-06T00:11:30.426Z[UTC]",
+  "searchQuery" : "nightcore ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-06T20:19:17.052Z[UTC]",
+  "searchQuery" : "pretty girl i'll make you famous ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-06T20:19:17.402Z[UTC]",
+  "searchQuery" : "pretty girl i'll make you famous ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-08T03:07:23.748Z[UTC]",
+  "searchQuery" : "anime ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-08T03:07:23.987Z[UTC]",
+  "searchQuery" : "anime so",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-08T03:07:24.023Z[UTC]",
+  "searchQuery" : "anime ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-08T03:07:24.253Z[UTC]",
+  "searchQuery" : "anime so",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-08T03:07:27.334Z[UTC]",
+  "searchQuery" : "anime",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-08T03:07:27.622Z[UTC]",
+  "searchQuery" : "anime",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-08T03:07:36.721Z[UTC]",
+  "searchQuery" : "tetp",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-08T03:07:36.943Z[UTC]",
+  "searchQuery" : "tetp",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-08T03:07:37.424Z[UTC]",
+  "searchQuery" : "teto",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-08T03:07:37.665Z[UTC]",
+  "searchQuery" : "teto",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-08T04:10:34.932Z[UTC]",
+  "searchQuery" : "vo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-08T04:10:35.191Z[UTC]",
+  "searchQuery" : "vo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-08T04:10:35.460Z[UTC]",
+  "searchQuery" : "voca",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-08T04:10:35.704Z[UTC]",
+  "searchQuery" : "voca",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-08T04:10:35.813Z[UTC]",
+  "searchQuery" : "vocal",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-08T04:10:36.055Z[UTC]",
+  "searchQuery" : "vocal",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-08T04:10:36.376Z[UTC]",
+  "searchQuery" : "vocaloid",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-08T04:10:36.626Z[UTC]",
+  "searchQuery" : "vocaloid",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-12T23:27:26.894Z[UTC]",
+  "searchQuery" : "g",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-12T23:27:27.257Z[UTC]",
+  "searchQuery" : "g",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-12T23:27:27.382Z[UTC]",
+  "searchQuery" : "game ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2025-12-12T23:27:27.424Z[UTC]",
+  "searchQuery" : "ga",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2025-12-12T23:27:27.438Z[UTC]",
+  "searchQuery" : "gam",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-12T23:27:27.466Z[UTC]",
+  "searchQuery" : "ga",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-12T23:27:27.504Z[UTC]",
+  "searchQuery" : "gam",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-12T23:27:27.735Z[UTC]",
+  "searchQuery" : "game ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-12T23:27:28.379Z[UTC]",
+  "searchQuery" : "j",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-12T23:27:28.663Z[UTC]",
+  "searchQuery" : "jrp",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-12T23:27:28.735Z[UTC]",
+  "searchQuery" : "j",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2025-12-12T23:27:28.747Z[UTC]",
+  "searchQuery" : "jr",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-12T23:27:28.797Z[UTC]",
+  "searchQuery" : "jr",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-12T23:27:28.930Z[UTC]",
+  "searchQuery" : "jrpg",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-12T23:27:29.066Z[UTC]",
+  "searchQuery" : "jrp",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-12T23:27:29.292Z[UTC]",
+  "searchQuery" : "jrpg ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-12T23:27:29.339Z[UTC]",
+  "searchQuery" : "jrpg",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-12T23:27:29.432Z[UTC]",
+  "searchQuery" : "jrpg m",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-12T23:27:29.646Z[UTC]",
+  "searchQuery" : "jrpg mus",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-12T23:27:29.651Z[UTC]",
+  "searchQuery" : "jrpg ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-12T23:27:29.801Z[UTC]",
+  "searchQuery" : "jrpg m",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-12T23:27:29.850Z[UTC]",
+  "searchQuery" : "jrpg musi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-12T23:27:30.073Z[UTC]",
+  "searchQuery" : "jrpg music",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-12T23:27:30.124Z[UTC]",
+  "searchQuery" : "jrpg mus",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-12T23:27:30.292Z[UTC]",
+  "searchQuery" : "jrpg musi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-12T23:27:30.413Z[UTC]",
+  "searchQuery" : "jrpg music",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-12T23:27:30.442Z[UTC]",
+  "searchQuery" : "jrpg music",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-12T23:27:30.642Z[UTC]",
+  "searchQuery" : "jrpg music",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T16:18:48.660Z[UTC]",
+  "searchQuery" : "f",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T16:18:48.720Z[UTC]",
+  "searchQuery" : "fi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T16:18:48.921Z[UTC]",
+  "searchQuery" : "fin",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T16:18:49.035Z[UTC]",
+  "searchQuery" : "fi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T16:18:49.107Z[UTC]",
+  "searchQuery" : "find ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T16:18:49.275Z[UTC]",
+  "searchQuery" : "fin",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T16:18:49.298Z[UTC]",
+  "searchQuery" : "find t",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2025-12-16T16:18:49.344Z[UTC]",
+  "searchQuery" : "f",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T16:18:49.412Z[UTC]",
+  "searchQuery" : "find ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T16:18:49.491Z[UTC]",
+  "searchQuery" : "find the",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T16:18:49.593Z[UTC]",
+  "searchQuery" : "find the ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T16:18:49.630Z[UTC]",
+  "searchQuery" : "find t",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T16:18:49.827Z[UTC]",
+  "searchQuery" : "find the f",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T16:18:49.918Z[UTC]",
+  "searchQuery" : "find the ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T16:18:50.098Z[UTC]",
+  "searchQuery" : "find the fal",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T16:18:50.189Z[UTC]",
+  "searchQuery" : "find the falm",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T16:18:50.224Z[UTC]",
+  "searchQuery" : "find the f",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T16:18:50.418Z[UTC]",
+  "searchQuery" : "find the falm",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T16:18:50.421Z[UTC]",
+  "searchQuery" : "find the falme",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2025-12-16T16:18:50.433Z[UTC]",
+  "searchQuery" : "find the",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T16:18:50.488Z[UTC]",
+  "searchQuery" : "find the fal",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T16:18:50.643Z[UTC]",
+  "searchQuery" : "find the falm",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T16:18:50.681Z[UTC]",
+  "searchQuery" : "find the fal",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T16:18:50.865Z[UTC]",
+  "searchQuery" : "find the fa",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2025-12-16T16:18:51.010Z[UTC]",
+  "searchQuery" : "find the falm",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T16:18:51.110Z[UTC]",
+  "searchQuery" : "find the fa",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2025-12-16T16:18:51.180Z[UTC]",
+  "searchQuery" : "find the f",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2025-12-16T16:18:51.196Z[UTC]",
+  "searchQuery" : "find the falme",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T16:18:51.217Z[UTC]",
+  "searchQuery" : "find the f",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2025-12-16T16:18:51.228Z[UTC]",
+  "searchQuery" : "find the fal",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T16:18:51.350Z[UTC]",
+  "searchQuery" : "find the fa",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T16:18:51.426Z[UTC]",
+  "searchQuery" : "find the fa",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T16:18:51.490Z[UTC]",
+  "searchQuery" : "find the fa",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2025-12-16T16:18:51.527Z[UTC]",
+  "searchQuery" : "find the fal",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T16:18:51.562Z[UTC]",
+  "searchQuery" : "find the fal",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T16:18:51.662Z[UTC]",
+  "searchQuery" : "find the f",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T16:18:51.776Z[UTC]",
+  "searchQuery" : "find the fa",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T16:18:51.927Z[UTC]",
+  "searchQuery" : "find the f",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T16:18:51.930Z[UTC]",
+  "searchQuery" : "find the fla",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T16:18:52.186Z[UTC]",
+  "searchQuery" : "find the flame",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T16:18:52.307Z[UTC]",
+  "searchQuery" : "find the fla",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T16:18:52.475Z[UTC]",
+  "searchQuery" : "find the flame",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T16:21:03.651Z[UTC]",
+  "searchQuery" : "find the flame",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T16:21:04.034Z[UTC]",
+  "searchQuery" : "find the flame",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T16:29:04.681Z[UTC]",
+  "searchQuery" : "find the flame",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T16:29:04.974Z[UTC]",
+  "searchQuery" : "find the flame",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T16:54:59.407Z[UTC]",
+  "searchQuery" : "find the flame",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2025-12-16T16:54:59.943Z[UTC]",
+  "searchQuery" : "find the flame",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:02:33.908Z[UTC]",
+  "searchQuery" : "m",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:02:34.007Z[UTC]",
+  "searchQuery" : "mo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:02:34.152Z[UTC]",
+  "searchQuery" : "mom",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:02:34.239Z[UTC]",
+  "searchQuery" : "m",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:02:34.320Z[UTC]",
+  "searchQuery" : "mo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:02:34.477Z[UTC]",
+  "searchQuery" : "mom",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:02:34.518Z[UTC]",
+  "searchQuery" : "momm",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:02:34.776Z[UTC]",
+  "searchQuery" : "momm",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:02:36.093Z[UTC]",
+  "searchQuery" : "b",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:02:36.247Z[UTC]",
+  "searchQuery" : "bo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:02:36.404Z[UTC]",
+  "searchQuery" : "b",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:02:36.455Z[UTC]",
+  "searchQuery" : "boy",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:02:36.554Z[UTC]",
+  "searchQuery" : "bo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:02:36.799Z[UTC]",
+  "searchQuery" : "boy",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:02:36.956Z[UTC]",
+  "searchQuery" : "boyf",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:02:37.146Z[UTC]",
+  "searchQuery" : "boyfr",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:02:37.249Z[UTC]",
+  "searchQuery" : "boyf",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:02:37.411Z[UTC]",
+  "searchQuery" : "boyfr",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:02:37.430Z[UTC]",
+  "searchQuery" : "boyfrie",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:02:37.718Z[UTC]",
+  "searchQuery" : "boyfriend",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:02:37.772Z[UTC]",
+  "searchQuery" : "boyfrie",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:02:37.831Z[UTC]",
+  "searchQuery" : "boyfriend a",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:02:38.036Z[UTC]",
+  "searchQuery" : "boyfriend as",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:02:38.048Z[UTC]",
+  "searchQuery" : "boyfriend",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:02:38.119Z[UTC]",
+  "searchQuery" : "boyfriend a",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:02:38.377Z[UTC]",
+  "searchQuery" : "boyfriend asm",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:02:38.420Z[UTC]",
+  "searchQuery" : "boyfriend as",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:02:38.655Z[UTC]",
+  "searchQuery" : "boyfriend asm",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:02:38.799Z[UTC]",
+  "searchQuery" : "boyfriend asmr",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:02:39.075Z[UTC]",
+  "searchQuery" : "boyfriend asmr",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:07:58.591Z[UTC]",
+  "searchQuery" : "boyfriend ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:07:58.890Z[UTC]",
+  "searchQuery" : "boyfriend ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:08:00.048Z[UTC]",
+  "searchQuery" : "mo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2025-12-18T05:08:00.069Z[UTC]",
+  "searchQuery" : "m",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:08:00.111Z[UTC]",
+  "searchQuery" : "m",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:08:00.288Z[UTC]",
+  "searchQuery" : "mom",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:08:00.390Z[UTC]",
+  "searchQuery" : "mo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:08:00.534Z[UTC]",
+  "searchQuery" : "mommy",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:08:00.751Z[UTC]",
+  "searchQuery" : "mommy ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2025-12-18T05:08:00.839Z[UTC]",
+  "searchQuery" : "mom",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:08:00.847Z[UTC]",
+  "searchQuery" : "mommy",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:08:00.895Z[UTC]",
+  "searchQuery" : "mommy a",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:08:01.081Z[UTC]",
+  "searchQuery" : "mommy ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:08:01.174Z[UTC]",
+  "searchQuery" : "mommy asm",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:08:01.449Z[UTC]",
+  "searchQuery" : "mommy asmr",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2025-12-18T05:08:01.449Z[UTC]",
+  "searchQuery" : "mommy a",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:08:01.457Z[UTC]",
+  "searchQuery" : "mommy asm",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T05:08:01.719Z[UTC]",
+  "searchQuery" : "mommy asmr",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T06:09:07.495Z[UTC]",
+  "searchQuery" : "mommy asmr",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T06:09:07.841Z[UTC]",
+  "searchQuery" : "mommy asmr",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T06:21:45.470Z[UTC]",
+  "searchQuery" : "mommy asmr",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T06:21:45.774Z[UTC]",
+  "searchQuery" : "mommy asmr",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "ANDROID",
+  "searchTime" : "2025-12-23T21:07:41.523Z[UTC]",
+  "searchQuery" : "5x s day",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-23T21:07:51.931Z[UTC]",
+  "searchQuery" : "5x s day",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "ANDROID",
+  "searchTime" : "2025-12-23T21:09:52.895Z[UTC]",
+  "searchQuery" : "5x s day",
+  "searchInteractionURIs" : [ "spotify:track:6EYoF78xKkFN31O7fNSUFz" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-26T05:05:30.682Z[UTC]",
+  "searchQuery" : "ro",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-26T05:05:30.949Z[UTC]",
+  "searchQuery" : "ro",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-26T05:05:31.376Z[UTC]",
+  "searchQuery" : "rock mix",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-26T05:05:31.620Z[UTC]",
+  "searchQuery" : "rock mix",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-28T03:30:36.848Z[UTC]",
+  "searchQuery" : "white girl ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-28T03:30:37.118Z[UTC]",
+  "searchQuery" : "white girl ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-08T03:02:43.962Z[UTC]",
+  "searchQuery" : "angel witha ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-08T03:02:44.318Z[UTC]",
+  "searchQuery" : "angel witha ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-01-08T03:02:45.834Z[UTC]",
+  "searchQuery" : "angel with a shot",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-08T03:02:45.868Z[UTC]",
+  "searchQuery" : "angel with a shot",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-01-08T03:02:46.310Z[UTC]",
+  "searchQuery" : "angel with a shotgun",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-08T03:02:46.354Z[UTC]",
+  "searchQuery" : "angel with a shotgun",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-01-08T03:49:59.783Z[UTC]",
+  "searchQuery" : "fall out ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-01-08T03:49:59.983Z[UTC]",
+  "searchQuery" : "fall out ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-08T03:50:00.686Z[UTC]",
+  "searchQuery" : "fall out boys",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-08T03:50:00.965Z[UTC]",
+  "searchQuery" : "fall out boys",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-16T04:58:11.302Z[UTC]",
+  "searchQuery" : "Everyone's Peace",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-16T04:58:11.681Z[UTC]",
+  "searchQuery" : "Everyone's Peace",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-01-16T04:58:12.149Z[UTC]",
+  "searchQuery" : "Everyone's Peace",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-16T04:58:12.187Z[UTC]",
+  "searchQuery" : "Everyone's Peace",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-01-16T04:58:22.843Z[UTC]",
+  "searchQuery" : "Minna no Peace",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-16T04:58:22.893Z[UTC]",
+  "searchQuery" : "Minna no Peace",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-16T04:58:23.419Z[UTC]",
+  "searchQuery" : "Minna no Peace",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-16T04:58:23.658Z[UTC]",
+  "searchQuery" : "Minna no Peace",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-25T03:47:09.072Z[UTC]",
+  "searchQuery" : "s",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-25T03:47:09.187Z[UTC]",
+  "searchQuery" : "sc",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-25T03:47:09.350Z[UTC]",
+  "searchQuery" : "sca",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-25T03:47:09.434Z[UTC]",
+  "searchQuery" : "s",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-25T03:47:09.543Z[UTC]",
+  "searchQuery" : "sc",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-25T03:47:09.636Z[UTC]",
+  "searchQuery" : "sca",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-25T03:47:09.659Z[UTC]",
+  "searchQuery" : "scatt",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-01-25T03:47:09.698Z[UTC]",
+  "searchQuery" : "scat",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-25T03:47:09.747Z[UTC]",
+  "searchQuery" : "scat",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-25T03:47:09.959Z[UTC]",
+  "searchQuery" : "scatt",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-25T03:47:09.989Z[UTC]",
+  "searchQuery" : "scatter",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-25T03:47:10.437Z[UTC]",
+  "searchQuery" : "scatterb",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-01-25T03:47:10.556Z[UTC]",
+  "searchQuery" : "scatter",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-25T03:47:10.615Z[UTC]",
+  "searchQuery" : "scatterbr",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-25T03:47:10.769Z[UTC]",
+  "searchQuery" : "scatterb",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-25T03:47:10.874Z[UTC]",
+  "searchQuery" : "scatterbrai",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-25T03:47:10.932Z[UTC]",
+  "searchQuery" : "scatterbr",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-25T03:47:11.245Z[UTC]",
+  "searchQuery" : "scatterbrai",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-25T03:47:11.359Z[UTC]",
+  "searchQuery" : "scatterbrain",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-25T03:47:11.641Z[UTC]",
+  "searchQuery" : "scatterbrain",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-25T18:34:31.791Z[UTC]",
+  "searchQuery" : "l",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-25T18:34:31.912Z[UTC]",
+  "searchQuery" : "lo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-25T18:34:32.096Z[UTC]",
+  "searchQuery" : "loo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-25T18:34:32.144Z[UTC]",
+  "searchQuery" : "l",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-25T18:34:32.216Z[UTC]",
+  "searchQuery" : "lo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-25T18:34:32.384Z[UTC]",
+  "searchQuery" : "loop",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-25T18:34:32.411Z[UTC]",
+  "searchQuery" : "loo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-25T18:34:32.463Z[UTC]",
+  "searchQuery" : "loopi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-25T18:34:32.699Z[UTC]",
+  "searchQuery" : "loop",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-25T18:34:32.809Z[UTC]",
+  "searchQuery" : "looping ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-01-25T18:34:32.879Z[UTC]",
+  "searchQuery" : "loopin",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-25T18:34:32.927Z[UTC]",
+  "searchQuery" : "loopin",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-01-25T18:34:33.008Z[UTC]",
+  "searchQuery" : "loopi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-25T18:34:33.069Z[UTC]",
+  "searchQuery" : "looping the",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-25T18:34:33.128Z[UTC]",
+  "searchQuery" : "looping ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-25T18:34:33.378Z[UTC]",
+  "searchQuery" : "looping the",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-25T18:34:33.457Z[UTC]",
+  "searchQuery" : "looping the roo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-01-25T18:34:33.524Z[UTC]",
+  "searchQuery" : "looping the r",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-25T18:34:33.564Z[UTC]",
+  "searchQuery" : "looping the r",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-25T18:34:33.626Z[UTC]",
+  "searchQuery" : "looping the room",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-25T18:34:33.732Z[UTC]",
+  "searchQuery" : "looping the roo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-01-25T18:34:34.141Z[UTC]",
+  "searchQuery" : "looping the room",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-25T18:34:34.187Z[UTC]",
+  "searchQuery" : "looping the rooms",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-25T18:34:34.411Z[UTC]",
+  "searchQuery" : "looping the rooms",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-28T13:50:51.392Z[UTC]",
+  "searchQuery" : "ca",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "ANDROID_ARM",
+  "searchTime" : "2026-01-28T13:50:51.966Z[UTC]",
+  "searchQuery" : "cal",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "ANDROID",
+  "searchTime" : "2026-01-28T13:50:52.046Z[UTC]",
+  "searchQuery" : "calm",
+  "searchInteractionURIs" : [ "spotify:playlist:37i9dQZF1EVHGWrwldPRtj" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-28T15:49:07.453Z[UTC]",
+  "searchQuery" : "sod",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-28T15:49:08.172Z[UTC]",
+  "searchQuery" : "soda ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-28T15:49:08.656Z[UTC]",
+  "searchQuery" : "soda po",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "ANDROID",
+  "searchTime" : "2026-01-28T15:49:09.181Z[UTC]",
+  "searchQuery" : "soda pop",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-28T15:49:25.263Z[UTC]",
+  "searchQuery" : "soda po",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-28T15:49:25.625Z[UTC]",
+  "searchQuery" : "soda p",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-28T15:49:25.676Z[UTC]",
+  "searchQuery" : "soda ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-28T15:49:25.769Z[UTC]",
+  "searchQuery" : "soda",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-28T15:49:25.771Z[UTC]",
+  "searchQuery" : "sod",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-28T15:49:25.878Z[UTC]",
+  "searchQuery" : "so",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "ANDROID_ARM",
+  "searchTime" : "2026-01-28T15:49:26.158Z[UTC]",
+  "searchQuery" : "s",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-28T15:49:26.805Z[UTC]",
+  "searchQuery" : "bu",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-28T15:49:27.053Z[UTC]",
+  "searchQuery" : "bub",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "ANDROID",
+  "searchTime" : "2026-01-28T15:49:30.125Z[UTC]",
+  "searchQuery" : "bubblegum",
+  "searchInteractionURIs" : [ "spotify:track:6IbnUaczZBT34DhaD6S18F", "spotify:track:6IbnUaczZBT34DhaD6S18F" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T00:01:02.799Z[UTC]",
+  "searchQuery" : "b",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T00:01:02.992Z[UTC]",
+  "searchQuery" : "bu",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T00:01:03.176Z[UTC]",
+  "searchQuery" : "bub",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T00:01:03.343Z[UTC]",
+  "searchQuery" : "bubb",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T00:01:03.525Z[UTC]",
+  "searchQuery" : "bubbl",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "ANDROID",
+  "searchTime" : "2026-01-30T00:01:04.299Z[UTC]",
+  "searchQuery" : "bubble",
+  "searchInteractionURIs" : [ "spotify:track:6IbnUaczZBT34DhaD6S18F" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T00:01:40.161Z[UTC]",
+  "searchQuery" : "n",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T00:01:40.756Z[UTC]",
+  "searchQuery" : "nigh",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T00:01:40.960Z[UTC]",
+  "searchQuery" : "night",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "ANDROID_ARM",
+  "searchTime" : "2026-01-30T00:01:41.152Z[UTC]",
+  "searchQuery" : "nig",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T00:01:41.537Z[UTC]",
+  "searchQuery" : "nightci",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T00:01:41.682Z[UTC]",
+  "searchQuery" : "nightcir",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "ANDROID",
+  "searchTime" : "2026-01-30T00:01:42.453Z[UTC]",
+  "searchQuery" : "nightcire",
+  "searchInteractionURIs" : [ "spotify:search:nightcore", "spotify:playlist:37i9dQZF1EIgzumthvloGt", "spotify:playlist:37i9dQZF1EIgzumthvloGt" ]
+}, {
+  "platform" : "ANDROID_ARM",
+  "searchTime" : "2026-01-30T00:21:28.555Z[UTC]",
+  "searchQuery" : "nightcore",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T00:21:29.946Z[UTC]",
+  "searchQuery" : "nightcor",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T00:21:30.341Z[UTC]",
+  "searchQuery" : "nightco",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T00:21:30.370Z[UTC]",
+  "searchQuery" : "nightc",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T00:21:30.425Z[UTC]",
+  "searchQuery" : "night",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T00:21:30.523Z[UTC]",
+  "searchQuery" : "nigh",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T00:21:30.524Z[UTC]",
+  "searchQuery" : "nig",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T00:21:30.579Z[UTC]",
+  "searchQuery" : "ni",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T00:21:30.645Z[UTC]",
+  "searchQuery" : "n",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T00:21:31.347Z[UTC]",
+  "searchQuery" : "v",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T00:21:31.602Z[UTC]",
+  "searchQuery" : "vo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T00:21:31.912Z[UTC]",
+  "searchQuery" : "voc",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T00:21:32.064Z[UTC]",
+  "searchQuery" : "voca",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T00:21:32.191Z[UTC]",
+  "searchQuery" : "vocal",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T00:21:32.420Z[UTC]",
+  "searchQuery" : "vocali",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "ANDROID",
+  "searchTime" : "2026-01-30T00:21:33.176Z[UTC]",
+  "searchQuery" : "vocalid",
+  "searchInteractionURIs" : [ "spotify:playlist:37i9dQZF1EIdUz13xg2Opj" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:03:56.416Z[UTC]",
+  "searchQuery" : "k",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:03:56.553Z[UTC]",
+  "searchQuery" : "ki",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:03:56.731Z[UTC]",
+  "searchQuery" : "k",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:03:56.996Z[UTC]",
+  "searchQuery" : "king ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-02-01T05:03:57.045Z[UTC]",
+  "searchQuery" : "kin",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:03:57.094Z[UTC]",
+  "searchQuery" : "kin",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-02-01T05:03:57.144Z[UTC]",
+  "searchQuery" : "ki",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-02-01T05:03:57.618Z[UTC]",
+  "searchQuery" : "king ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:03:57.846Z[UTC]",
+  "searchQuery" : "king v",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:03:58.081Z[UTC]",
+  "searchQuery" : "king vo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:03:58.151Z[UTC]",
+  "searchQuery" : "king v",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:03:58.315Z[UTC]",
+  "searchQuery" : "king von",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:03:58.385Z[UTC]",
+  "searchQuery" : "king vo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:03:58.660Z[UTC]",
+  "searchQuery" : "king von",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:03:58.924Z[UTC]",
+  "searchQuery" : "king von",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:03:59.176Z[UTC]",
+  "searchQuery" : "king von",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:04:01.570Z[UTC]",
+  "searchQuery" : "king von",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:04:01.919Z[UTC]",
+  "searchQuery" : "king von",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:04:05.401Z[UTC]",
+  "searchQuery" : "g",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:04:05.541Z[UTC]",
+  "searchQuery" : "gi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:04:05.705Z[UTC]",
+  "searchQuery" : "g",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:04:05.772Z[UTC]",
+  "searchQuery" : "gir",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:04:05.831Z[UTC]",
+  "searchQuery" : "gi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:04:05.968Z[UTC]",
+  "searchQuery" : "girly",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:04:06.129Z[UTC]",
+  "searchQuery" : "gir",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:04:06.242Z[UTC]",
+  "searchQuery" : "girly",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-02-01T05:04:06.488Z[UTC]",
+  "searchQuery" : "girly p",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:04:06.531Z[UTC]",
+  "searchQuery" : "girly pop",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:04:06.533Z[UTC]",
+  "searchQuery" : "girly p",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:04:06.889Z[UTC]",
+  "searchQuery" : "girly pop",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:04:07.182Z[UTC]",
+  "searchQuery" : "girly pop",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:04:07.438Z[UTC]",
+  "searchQuery" : "girly pop",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:04:17.678Z[UTC]",
+  "searchQuery" : "b",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:04:17.831Z[UTC]",
+  "searchQuery" : "bi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:04:17.997Z[UTC]",
+  "searchQuery" : "b",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:04:18.025Z[UTC]",
+  "searchQuery" : "bir",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:04:18.202Z[UTC]",
+  "searchQuery" : "bi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:04:18.211Z[UTC]",
+  "searchQuery" : "bird",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:04:18.343Z[UTC]",
+  "searchQuery" : "bir",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:04:18.527Z[UTC]",
+  "searchQuery" : "birdb",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:04:18.541Z[UTC]",
+  "searchQuery" : "bird",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:04:18.724Z[UTC]",
+  "searchQuery" : "birdbr",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:04:18.854Z[UTC]",
+  "searchQuery" : "birdb",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:04:18.987Z[UTC]",
+  "searchQuery" : "birdbrai",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:04:19.265Z[UTC]",
+  "searchQuery" : "birdbrai",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-02-01T05:04:19.458Z[UTC]",
+  "searchQuery" : "birdbrain",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:04:19.496Z[UTC]",
+  "searchQuery" : "birdbrain",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:04:19Z[UTC]",
+  "searchQuery" : "birdbr",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:04:20.834Z[UTC]",
+  "searchQuery" : "birdbrain",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:04:21.034Z[UTC]",
+  "searchQuery" : "birdbrain",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:05:52.150Z[UTC]",
+  "searchQuery" : "l",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:05:52.156Z[UTC]",
+  "searchQuery" : "lo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:05:52.322Z[UTC]",
+  "searchQuery" : "loo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:05:52.448Z[UTC]",
+  "searchQuery" : "l",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:05:52.469Z[UTC]",
+  "searchQuery" : "lo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:05:52.641Z[UTC]",
+  "searchQuery" : "loo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:05:52.689Z[UTC]",
+  "searchQuery" : "loopi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:05:52.953Z[UTC]",
+  "searchQuery" : "loopi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:05:53.071Z[UTC]",
+  "searchQuery" : "loopin",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:05:53.116Z[UTC]",
+  "searchQuery" : "looping ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:05:53.338Z[UTC]",
+  "searchQuery" : "looping the ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:05:53.343Z[UTC]",
+  "searchQuery" : "loopin",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:05:53.422Z[UTC]",
+  "searchQuery" : "looping ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:05:53.492Z[UTC]",
+  "searchQuery" : "looping the r",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:05:53.607Z[UTC]",
+  "searchQuery" : "looping the ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:05:53.755Z[UTC]",
+  "searchQuery" : "looping the r",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:05:53.929Z[UTC]",
+  "searchQuery" : "looping the rooms",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:05:54.058Z[UTC]",
+  "searchQuery" : "looping the roo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:05:54.173Z[UTC]",
+  "searchQuery" : "looping the rooms",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:05:54.336Z[UTC]",
+  "searchQuery" : "looping the roo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:05:54.545Z[UTC]",
+  "searchQuery" : "looping the rooms",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:05:54.763Z[UTC]",
+  "searchQuery" : "looping the rooms",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-02-01T05:30:01.111Z[UTC]",
+  "searchQuery" : "looping the rooms",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:30:01.153Z[UTC]",
+  "searchQuery" : "looping the rooms",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:30:02.054Z[UTC]",
+  "searchQuery" : "vo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:30:02.247Z[UTC]",
+  "searchQuery" : "vol",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-02-01T05:30:02.284Z[UTC]",
+  "searchQuery" : "v",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:30:02.327Z[UTC]",
+  "searchQuery" : "v",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:30:02.367Z[UTC]",
+  "searchQuery" : "vo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:30:02.482Z[UTC]",
+  "searchQuery" : "vo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:30:02.577Z[UTC]",
+  "searchQuery" : "vol",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:30:02.879Z[UTC]",
+  "searchQuery" : "voc",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-02-01T05:30:03.044Z[UTC]",
+  "searchQuery" : "vo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:30:03.068Z[UTC]",
+  "searchQuery" : "vocal",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:30:03.167Z[UTC]",
+  "searchQuery" : "voc",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:30:03.169Z[UTC]",
+  "searchQuery" : "vocalo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:30:03.346Z[UTC]",
+  "searchQuery" : "vocal",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:30:03.407Z[UTC]",
+  "searchQuery" : "vocaloi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:30:03.435Z[UTC]",
+  "searchQuery" : "vocalo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:30:03.587Z[UTC]",
+  "searchQuery" : "vocaloid ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:30:03.777Z[UTC]",
+  "searchQuery" : "vocaloi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:30:03.821Z[UTC]",
+  "searchQuery" : "vocaloid m",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:30:03.875Z[UTC]",
+  "searchQuery" : "vocaloid mix",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:30:03.876Z[UTC]",
+  "searchQuery" : "vocaloid rock",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:30:03.877Z[UTC]",
+  "searchQuery" : "vocaloid songs",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:30:03.877Z[UTC]",
+  "searchQuery" : "vocaloid metal",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:30:03.919Z[UTC]",
+  "searchQuery" : "vocaloid ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:30:04.020Z[UTC]",
+  "searchQuery" : "vocaloid mi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:30:04.138Z[UTC]",
+  "searchQuery" : "vocaloid m",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:30:04.436Z[UTC]",
+  "searchQuery" : "vocaloid mi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-02-01T05:30:04.864Z[UTC]",
+  "searchQuery" : "vocaloid mix",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T05:30:04.929Z[UTC]",
+  "searchQuery" : "vocaloid mix",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-09T16:44:34.089Z[UTC]",
+  "searchQuery" : "y",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-09T16:44:34.445Z[UTC]",
+  "searchQuery" : "y",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T00:11:16.449Z[UTC]",
+  "searchQuery" : "wev",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T00:11:16.780Z[UTC]",
+  "searchQuery" : "wev",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-02-10T02:21:41.726Z[UTC]",
+  "searchQuery" : "Lay All Your Love On Me",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T02:21:41.790Z[UTC]",
+  "searchQuery" : "Lay All Your Love On Me",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T02:21:42.048Z[UTC]",
+  "searchQuery" : "Lay All Your Love On Me",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T02:21:42.205Z[UTC]",
+  "searchQuery" : "Lay All Your Love On Me",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-02-10T03:18:35.850Z[UTC]",
+  "searchQuery" : "g",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:18:35.888Z[UTC]",
+  "searchQuery" : "g",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:18:35.906Z[UTC]",
+  "searchQuery" : "gor",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-02-10T03:18:35.933Z[UTC]",
+  "searchQuery" : "go",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:18:35.974Z[UTC]",
+  "searchQuery" : "go",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:18:36.214Z[UTC]",
+  "searchQuery" : "gor",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:18:36.363Z[UTC]",
+  "searchQuery" : "gori",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:18:36.386Z[UTC]",
+  "searchQuery" : "goril",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:18:36.593Z[UTC]",
+  "searchQuery" : "gorill",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:18:36.649Z[UTC]",
+  "searchQuery" : "gori",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:18:36.753Z[UTC]",
+  "searchQuery" : "goril",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:18:36.875Z[UTC]",
+  "searchQuery" : "gorill",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:18:36.906Z[UTC]",
+  "searchQuery" : "gorilla",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:18:37.224Z[UTC]",
+  "searchQuery" : "gorillax",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:18:37.239Z[UTC]",
+  "searchQuery" : "gorilla",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:18:37.500Z[UTC]",
+  "searchQuery" : "gorilla",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:18:37.574Z[UTC]",
+  "searchQuery" : "gorillax",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:18:37.703Z[UTC]",
+  "searchQuery" : "gorillaz",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:18:38.030Z[UTC]",
+  "searchQuery" : "gorillaz",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-02-10T03:18:38.067Z[UTC]",
+  "searchQuery" : "gorilla",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:13.456Z[UTC]",
+  "searchQuery" : "w",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:13.772Z[UTC]",
+  "searchQuery" : "wn",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:13.779Z[UTC]",
+  "searchQuery" : "w",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:14.047Z[UTC]",
+  "searchQuery" : "w",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:14.058Z[UTC]",
+  "searchQuery" : "wn",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:14.231Z[UTC]",
+  "searchQuery" : "wi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:14.486Z[UTC]",
+  "searchQuery" : "wind",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:14.533Z[UTC]",
+  "searchQuery" : "wi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-02-10T03:21:14.647Z[UTC]",
+  "searchQuery" : "w",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:14.774Z[UTC]",
+  "searchQuery" : "wind",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:15.096Z[UTC]",
+  "searchQuery" : "windm",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:15.335Z[UTC]",
+  "searchQuery" : "windmi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:15.369Z[UTC]",
+  "searchQuery" : "windm",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:15.675Z[UTC]",
+  "searchQuery" : "windmil",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:15.906Z[UTC]",
+  "searchQuery" : "windmill",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-02-10T03:21:15.944Z[UTC]",
+  "searchQuery" : "windmi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:15.964Z[UTC]",
+  "searchQuery" : "windmil",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:16.159Z[UTC]",
+  "searchQuery" : "windmill w",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:16.202Z[UTC]",
+  "searchQuery" : "windmill",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:16.383Z[UTC]",
+  "searchQuery" : "windmill wi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:16.461Z[UTC]",
+  "searchQuery" : "windmill w",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:16.600Z[UTC]",
+  "searchQuery" : "windmill wind",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:16.781Z[UTC]",
+  "searchQuery" : "windmill windo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:16.811Z[UTC]",
+  "searchQuery" : "windmill wi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:17.061Z[UTC]",
+  "searchQuery" : "windmill wind",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:17.180Z[UTC]",
+  "searchQuery" : "windmill windo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-02-10T03:21:17.210Z[UTC]",
+  "searchQuery" : "windmill wind",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:17.244Z[UTC]",
+  "searchQuery" : "windmill windm",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:17.349Z[UTC]",
+  "searchQuery" : "windmill wind",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:17.536Z[UTC]",
+  "searchQuery" : "windmill windm",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:17.606Z[UTC]",
+  "searchQuery" : "windmill windmi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:17.839Z[UTC]",
+  "searchQuery" : "windmill windmil",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:17.963Z[UTC]",
+  "searchQuery" : "windmill windmi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:18.007Z[UTC]",
+  "searchQuery" : "windmill windmill",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:18.135Z[UTC]",
+  "searchQuery" : "windmill windmil",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:18.207Z[UTC]",
+  "searchQuery" : "windmill windmill fo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:18.341Z[UTC]",
+  "searchQuery" : "windmill windmill",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:18.555Z[UTC]",
+  "searchQuery" : "windmill windmill for",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:18.635Z[UTC]",
+  "searchQuery" : "windmill windmill for t",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:18.673Z[UTC]",
+  "searchQuery" : "windmill windmill for ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-02-10T03:21:18.780Z[UTC]",
+  "searchQuery" : "windmill windmill fo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:18.877Z[UTC]",
+  "searchQuery" : "windmill windmill for th",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:18.902Z[UTC]",
+  "searchQuery" : "windmill windmill for",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:18.924Z[UTC]",
+  "searchQuery" : "windmill windmill for t",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:18.984Z[UTC]",
+  "searchQuery" : "windmill windmill for ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:19.156Z[UTC]",
+  "searchQuery" : "windmill windmill for the",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:19.324Z[UTC]",
+  "searchQuery" : "windmill windmill for the ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-02-10T03:21:19.445Z[UTC]",
+  "searchQuery" : "windmill windmill for th",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:19.503Z[UTC]",
+  "searchQuery" : "windmill windmill for the",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:19.601Z[UTC]",
+  "searchQuery" : "windmill windmill for the la",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:19.666Z[UTC]",
+  "searchQuery" : "windmill windmill for the ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:19.817Z[UTC]",
+  "searchQuery" : "windmill windmill for the land",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:19.988Z[UTC]",
+  "searchQuery" : "windmill windmill for the la",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:21:20.091Z[UTC]",
+  "searchQuery" : "windmill windmill for the land",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:22:13.570Z[UTC]",
+  "searchQuery" : "u",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:22:13.610Z[UTC]",
+  "searchQuery" : "un",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:22:13.773Z[UTC]",
+  "searchQuery" : "une",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:22:13.931Z[UTC]",
+  "searchQuery" : "un",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:22:14.065Z[UTC]",
+  "searchQuery" : "une",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:22:14.119Z[UTC]",
+  "searchQuery" : "une ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-02-10T03:22:14.141Z[UTC]",
+  "searchQuery" : "u",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:22:14.302Z[UTC]",
+  "searchQuery" : "une v",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:22:14.465Z[UTC]",
+  "searchQuery" : "une vi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:22:14.565Z[UTC]",
+  "searchQuery" : "une v",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:22:14.633Z[UTC]",
+  "searchQuery" : "une vie",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-02-10T03:22:14.689Z[UTC]",
+  "searchQuery" : "une ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:22:14.785Z[UTC]",
+  "searchQuery" : "une vi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:22:14.841Z[UTC]",
+  "searchQuery" : "une vie ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:22:14.918Z[UTC]",
+  "searchQuery" : "une vie",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:22:15.118Z[UTC]",
+  "searchQuery" : "une vie a ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:22:15.139Z[UTC]",
+  "searchQuery" : "une vie ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:22:15.248Z[UTC]",
+  "searchQuery" : "une vie a t",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:22:15.413Z[UTC]",
+  "searchQuery" : "une vie a ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:22:15.477Z[UTC]",
+  "searchQuery" : "une vie a ta",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:22:15.546Z[UTC]",
+  "searchQuery" : "une vie a t",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:22:15.805Z[UTC]",
+  "searchQuery" : "une vie a ta",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:22:15.981Z[UTC]",
+  "searchQuery" : "une vie a tamier",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-02-10T03:22:16.028Z[UTC]",
+  "searchQuery" : "une vie a tami",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:22:16.067Z[UTC]",
+  "searchQuery" : "une vie a tami",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:22:16.296Z[UTC]",
+  "searchQuery" : "une vie a tamier",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:22:21.971Z[UTC]",
+  "searchQuery" : "une vie à t'aimer",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:22:22.222Z[UTC]",
+  "searchQuery" : "une vie à t'aimer",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:22:46.961Z[UTC]",
+  "searchQuery" : "u",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:22:47.158Z[UTC]",
+  "searchQuery" : "un",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:22:47.322Z[UTC]",
+  "searchQuery" : "u",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:22:47.323Z[UTC]",
+  "searchQuery" : "une ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:22:47.494Z[UTC]",
+  "searchQuery" : "un",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:22:47.614Z[UTC]",
+  "searchQuery" : "une ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:22:47.638Z[UTC]",
+  "searchQuery" : "une vi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:22:47.855Z[UTC]",
+  "searchQuery" : "une vie",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:22:47.975Z[UTC]",
+  "searchQuery" : "une vi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T03:22:48.127Z[UTC]",
+  "searchQuery" : "une vie",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T04:04:15.995Z[UTC]",
+  "searchQuery" : "une vie",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T04:04:16.307Z[UTC]",
+  "searchQuery" : "une vie",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T04:04:17.357Z[UTC]",
+  "searchQuery" : "f",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-02-10T04:04:17.956Z[UTC]",
+  "searchQuery" : "f",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T04:04:18.135Z[UTC]",
+  "searchQuery" : "fu",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T04:04:18.308Z[UTC]",
+  "searchQuery" : "fuy",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T04:04:18.415Z[UTC]",
+  "searchQuery" : "fu",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T04:04:18.623Z[UTC]",
+  "searchQuery" : "fuy",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T04:04:18.632Z[UTC]",
+  "searchQuery" : "fuyo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T04:04:18.893Z[UTC]",
+  "searchQuery" : "fuyo ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T04:04:18.967Z[UTC]",
+  "searchQuery" : "fuyo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T04:04:19.116Z[UTC]",
+  "searchQuery" : "fuyo no",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T04:04:19.263Z[UTC]",
+  "searchQuery" : "fuyo ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T04:04:19.425Z[UTC]",
+  "searchQuery" : "fuyo no ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T04:04:19.491Z[UTC]",
+  "searchQuery" : "fuyo no",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T04:04:19.741Z[UTC]",
+  "searchQuery" : "fuyo no h",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T04:04:19.754Z[UTC]",
+  "searchQuery" : "fuyo no ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T04:04:20.092Z[UTC]",
+  "searchQuery" : "fuyo no h",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T04:04:23.901Z[UTC]",
+  "searchQuery" : "fuyu no hanashi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T04:04:24.194Z[UTC]",
+  "searchQuery" : "fuyu no hanashi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T04:04:26.352Z[UTC]",
+  "searchQuery" : "fuyu no hanashi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-10T04:04:26.679Z[UTC]",
+  "searchQuery" : "fuyu no hanashi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-11T14:05:57.507Z[UTC]",
+  "searchQuery" : "chi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "ANDROID_ARM",
+  "searchTime" : "2026-02-11T14:05:57.514Z[UTC]",
+  "searchQuery" : "ch",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "ANDROID",
+  "searchTime" : "2026-02-11T14:06:00.539Z[UTC]",
+  "searchQuery" : "childays",
+  "searchInteractionURIs" : [ "spotify:track:2sqAJn1myZRSxkYRhKiPTb", "spotify:track:2sqAJn1myZRSxkYRhKiPTb" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-11T14:06:16.189Z[UTC]",
+  "searchQuery" : "childay",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-11T14:06:16.564Z[UTC]",
+  "searchQuery" : "childa",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-11T14:06:16.689Z[UTC]",
+  "searchQuery" : "child",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-11T14:06:16.691Z[UTC]",
+  "searchQuery" : "chil",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-11T14:06:16.718Z[UTC]",
+  "searchQuery" : "chi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-11T14:06:16.789Z[UTC]",
+  "searchQuery" : "ch",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-11T14:06:16.844Z[UTC]",
+  "searchQuery" : "c",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-11T14:06:17.949Z[UTC]",
+  "searchQuery" : "bl",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-11T14:06:18.154Z[UTC]",
+  "searchQuery" : "blo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-11T14:06:18.299Z[UTC]",
+  "searchQuery" : "bloo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-11T14:06:18.540Z[UTC]",
+  "searchQuery" : "bloom",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-11T14:06:20.669Z[UTC]",
+  "searchQuery" : "bloom va",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "ANDROID",
+  "searchTime" : "2026-02-11T14:06:21.762Z[UTC]",
+  "searchQuery" : "bloom vase",
+  "searchInteractionURIs" : [ "spotify:artist:3jpPlA4ASvE9TlObazOIee" ]
+} ]

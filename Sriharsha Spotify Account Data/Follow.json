@@ -1,0 +1,5 @@
+{
+  "userIsFollowing" : [ "Alex" ],
+  "userIsFollowedBy" : [ "Alex", "Saksham" ],
+  "userIsBlocking" : [ ]
+}
