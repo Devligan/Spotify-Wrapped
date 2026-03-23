@@ -1,0 +1,421 @@
+{
+  "stats" : [ {
+    "date" : "2026-02-09",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "TAKE A RIDE",
+      "streamCount" : 15,
+      "secondsPlayed" : 1895
+    }, {
+      "name" : "Dølla Chemical RØMANCE",
+      "streamCount" : 14,
+      "secondsPlayed" : 2364
+    }, {
+      "name" : "3am",
+      "streamCount" : 12,
+      "secondsPlayed" : 1510
+    }, {
+      "name" : "Life Of A Young Boss",
+      "streamCount" : 11,
+      "secondsPlayed" : 1687
+    }, {
+      "name" : "GINGER",
+      "streamCount" : 10,
+      "secondsPlayed" : 1855
+    }, {
+      "name" : "Depressed Swerving",
+      "streamCount" : 10,
+      "secondsPlayed" : 1224
+    }, {
+      "name" : "TOUCHDOWN",
+      "streamCount" : 9,
+      "secondsPlayed" : 1304
+    }, {
+      "name" : "Down South Hustlaz",
+      "streamCount" : 8,
+      "secondsPlayed" : 1312
+    }, {
+      "name" : "Congrats",
+      "streamCount" : 8,
+      "secondsPlayed" : 760
+    }, {
+      "name" : "Affection",
+      "streamCount" : 7,
+      "secondsPlayed" : 851
+    } ],
+    "topArtists" : [ {
+      "name" : "Yung Bruh",
+      "streamCount" : 26,
+      "secondsPlayed" : 3682
+    }, {
+      "name" : "Lil Tracy",
+      "streamCount" : 28,
+      "secondsPlayed" : 4127
+    }, {
+      "name" : "Loe Shimmy",
+      "streamCount" : 20,
+      "secondsPlayed" : 2443
+    }, {
+      "name" : "Southsidesilhouette",
+      "streamCount" : 26,
+      "secondsPlayed" : 3882
+    }, {
+      "name" : "5eva",
+      "streamCount" : 15,
+      "secondsPlayed" : 1895
+    }, {
+      "name" : "Pz'",
+      "streamCount" : 14,
+      "secondsPlayed" : 2364
+    }, {
+      "name" : "Zillionaire Doe",
+      "streamCount" : 14,
+      "secondsPlayed" : 2283
+    }, {
+      "name" : "Shaio",
+      "streamCount" : 13,
+      "secondsPlayed" : 1581
+    }, {
+      "name" : "Yeat",
+      "streamCount" : 12,
+      "secondsPlayed" : 1714
+    }, {
+      "name" : "BROCKHAMPTON",
+      "streamCount" : 10,
+      "secondsPlayed" : 1855
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-02-02",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Dølla Chemical RØMANCE",
+      "streamCount" : 14,
+      "secondsPlayed" : 2334
+    }, {
+      "name" : "TAKE A RIDE",
+      "streamCount" : 11,
+      "secondsPlayed" : 1404
+    }, {
+      "name" : "GINGER",
+      "streamCount" : 7,
+      "secondsPlayed" : 1614
+    }, {
+      "name" : "Congrats",
+      "streamCount" : 7,
+      "secondsPlayed" : 649
+    }, {
+      "name" : "Broward",
+      "streamCount" : 7,
+      "secondsPlayed" : 810
+    }, {
+      "name" : "TOUCHDOWN",
+      "streamCount" : 6,
+      "secondsPlayed" : 816
+    }, {
+      "name" : "get gone",
+      "streamCount" : 4,
+      "secondsPlayed" : 656
+    }, {
+      "name" : "Affection",
+      "streamCount" : 4,
+      "secondsPlayed" : 648
+    }, {
+      "name" : "Down South Hustlaz",
+      "streamCount" : 4,
+      "secondsPlayed" : 514
+    }, {
+      "name" : "3am",
+      "streamCount" : 4,
+      "secondsPlayed" : 357
+    } ],
+    "topArtists" : [ {
+      "name" : "Southsidesilhouette",
+      "streamCount" : 26,
+      "secondsPlayed" : 3697
+    }, {
+      "name" : "Pz'",
+      "streamCount" : 14,
+      "secondsPlayed" : 2334
+    }, {
+      "name" : "5eva",
+      "streamCount" : 12,
+      "secondsPlayed" : 1479
+    }, {
+      "name" : "Shaio",
+      "streamCount" : 11,
+      "secondsPlayed" : 1458
+    }, {
+      "name" : "Loe Shimmy",
+      "streamCount" : 10,
+      "secondsPlayed" : 909
+    }, {
+      "name" : "Lil Tracy",
+      "streamCount" : 12,
+      "secondsPlayed" : 1893
+    }, {
+      "name" : "Tezzus",
+      "streamCount" : 14,
+      "secondsPlayed" : 2334
+    }, {
+      "name" : "BROCKHAMPTON",
+      "streamCount" : 7,
+      "secondsPlayed" : 1614
+    }, {
+      "name" : "Yeat",
+      "streamCount" : 7,
+      "secondsPlayed" : 951
+    }, {
+      "name" : "OsamaSon",
+      "streamCount" : 7,
+      "secondsPlayed" : 649
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-01-26",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "TAKE A RIDE",
+      "streamCount" : 16,
+      "secondsPlayed" : 2416
+    }, {
+      "name" : "U Sellin Dope (with Future)",
+      "streamCount" : 10,
+      "secondsPlayed" : 1631
+    }, {
+      "name" : "Broward",
+      "streamCount" : 10,
+      "secondsPlayed" : 1210
+    }, {
+      "name" : "get gone",
+      "streamCount" : 8,
+      "secondsPlayed" : 1312
+    }, {
+      "name" : "Affection",
+      "streamCount" : 8,
+      "secondsPlayed" : 1284
+    }, {
+      "name" : "Congrats",
+      "streamCount" : 8,
+      "secondsPlayed" : 794
+    }, {
+      "name" : "Jimmy Choo",
+      "streamCount" : 7,
+      "secondsPlayed" : 598
+    }, {
+      "name" : "Down South Hustlaz",
+      "streamCount" : 5,
+      "secondsPlayed" : 960
+    }, {
+      "name" : "Doublë",
+      "streamCount" : 4,
+      "secondsPlayed" : 603
+    }, {
+      "name" : "t r a n s p a r e n t s o u l feat. Travis Barker",
+      "streamCount" : 4,
+      "secondsPlayed" : 504
+    } ],
+    "topArtists" : [ {
+      "name" : "Shaio",
+      "streamCount" : 19,
+      "secondsPlayed" : 2647
+    }, {
+      "name" : "YoungBoy Never Broke Again",
+      "streamCount" : 16,
+      "secondsPlayed" : 2599
+    }, {
+      "name" : "5eva",
+      "streamCount" : 16,
+      "secondsPlayed" : 2416
+    }, {
+      "name" : "Future",
+      "streamCount" : 19,
+      "secondsPlayed" : 3520
+    }, {
+      "name" : "Lil Double 0",
+      "streamCount" : 10,
+      "secondsPlayed" : 1631
+    }, {
+      "name" : "lifelessgarments",
+      "streamCount" : 9,
+      "secondsPlayed" : 1444
+    }, {
+      "name" : "SSENMELO",
+      "streamCount" : 16,
+      "secondsPlayed" : 2416
+    }, {
+      "name" : "OsamaSon",
+      "streamCount" : 8,
+      "secondsPlayed" : 794
+    }, {
+      "name" : "Yeat",
+      "streamCount" : 8,
+      "secondsPlayed" : 1210
+    }, {
+      "name" : "Zillionaire Doe",
+      "streamCount" : 8,
+      "secondsPlayed" : 1247
+    } ],
+    "topGenres" : [ ]
+  } ],
+  "highlights" : [ {
+    "date" : "2026-02-15",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Pritam",
+      "secondEntity" : "Brennan Jones"
+    }
+  }, {
+    "date" : "2026-02-08",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "SouljahWitch",
+      "listeningPercentage" : 37.6245038568112
+    }
+  }, {
+    "date" : "2026-02-01",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Future", "Shaio", "YoungBoy Never Broke Again", "TAKE A RIDE", "U Sellin Dope (with Future)", "get gone", "Affection", "Broward", "Down South Hustlaz" ],
+      "milestoneListeningSeconds" : 31027
+    }
+  }, {
+    "date" : "2026-01-25",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "get gone",
+      "dayStreaks" : 7
+    }
+  }, {
+    "date" : "2026-01-18",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Jimmy Choo",
+      "dayStreaks" : 4
+    }
+  }, {
+    "date" : "2026-01-11",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Doublë",
+      "streamCount" : 8
+    }
+  }, {
+    "date" : "2026-01-04",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Heart & Soul",
+      "streamCount" : 7
+    }
+  }, {
+    "date" : "2025-12-28",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Feel Good",
+      "streamCount" : 8
+    }
+  }, {
+    "date" : "2025-12-21",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "spotify:playlist:37i9dQZEVXcXHWVVT0lfDq",
+      "listeningPercentage" : 40.140845070422536
+    }
+  }, {
+    "date" : "2025-12-14",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Protect",
+      "dayStreaks" : 5
+    }
+  }, {
+    "date" : "2025-12-07",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Looking For Love",
+      "streamCount" : 10
+    }
+  }, {
+    "date" : "2025-11-30",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "SouljahWitch",
+      "listeningPercentage" : 44.39339088461895
+    }
+  }, {
+    "date" : "2025-11-23",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Always Forever",
+      "dayStreaks" : 4
+    }
+  }, {
+    "date" : "2025-11-16",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Interlude",
+      "streamCount" : 22
+    }
+  }, {
+    "date" : "2025-11-09",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "PARTYNEXTDOOR",
+      "country" : "US",
+      "secondsPlayed" : 9161,
+      "marketAvgSecondsPlayed" : 855.26215
+    }
+  }, {
+    "date" : "2025-11-02",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "K CAMP",
+      "secondEntity" : "Chitra Singh"
+    }
+  }, {
+    "date" : "2025-10-26",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Yeat", "Drake", "PARTYNEXTDOOR", "Lying 4 fun", "Fukit", "Bëttr 0ff", "FATË (BONUS)", "Way back", "M a k e I t T o T h e M o r n i n g" ],
+      "milestoneListeningSeconds" : 54407
+    }
+  }, {
+    "date" : "2025-10-19",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "Yeat",
+      "listeningPercentage" : 60.495078556376534
+    }
+  }, {
+    "date" : "2025-10-12",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Highway",
+      "dayStreaks" : 7
+    }
+  }, {
+    "date" : "2025-10-05",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "FATË (BONUS)",
+      "streamCount" : 24
+    }
+  }, {
+    "date" : "2025-09-28",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Flawless Victory",
+      "secondEntity" : "Tum Ko Dekha To Yeh Khayal Aaya"
+    }
+  }, {
+    "date" : "2025-09-21",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Red Dot 21",
+      "streamCount" : 9
+    }
+  } ]
+}
