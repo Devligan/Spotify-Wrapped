@@ -148,13 +148,12 @@ function computeStats(records) {
 
 const USERS = {
   Sriharsha: [
-    "/Sriharsha Spotify Account Data/StreamingHistory_music_0.json",
-    "/Sriharsha Spotify Account Data/StreamingHistory_music_1.json",
+    "/s/StreamingHistory_music_0.json",
+    "/s/StreamingHistory_music_1.json",
   ],
   Janya: [
-    "/Janya Spotify Account Data/StreamingHistory_music_0.json",
-    "/Janya Spotify Account Data/StreamingHistory_music_1.json"
-    // add more paths if Janya has more files
+    "/j/StreamingHistory_music_0.json",
+    "/j/StreamingHistory_music_1.json",
   ],
 };
 
