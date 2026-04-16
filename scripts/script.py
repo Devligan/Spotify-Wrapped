@@ -1,198 +1,148 @@
 import os
 import json
 import time
+import sys
+import requests
 from pathlib import Path
 from dotenv import load_dotenv
-import spotipy
-from spotipy.oauth2 import SpotifyClientCredentials
-import spotipy.exceptions
+
+sys.stdout.reconfigure(encoding="utf-8")
 
 load_dotenv()
 
-client = spotipy.Spotify(auth_manager=SpotifyClientCredentials(
-    client_id=os.getenv("SPOTIFYCLIENTID"),
-    client_secret=os.getenv("SPOTIFYCLIENTSECRET")
-))
+# =========================
+# CONFIG
+# =========================
+API_KEY = os.getenv("RAPIDAPI_KEY")
 
-files = list(Path("public/j").glob("StreamingHistory_music_*.json")) + list(Path("public/s").glob("StreamingHistory_music_*.json"))
+BASE_URL = "https://track-analysis.p.rapidapi.com/pktx/analysis"
+
+HEADERS = {
+    "x-rapidapi-key": API_KEY,
+    "x-rapidapi-host": "track-analysis.p.rapidapi.com"
+}
+
+# =========================
+# LOAD STREAMING DATA
+# =========================
+files = list(Path("public/j").glob("StreamingHistory_music_*.json")) + \
+        list(Path("public/s").glob("StreamingHistory_music_*.json"))
 
 data = []
-
 for file in files:
     with open(file, "r", encoding="utf-8") as f:
         data.extend(json.load(f))
 
-artists = set()
 tracks = set()
 
 for row in data:
-    if "artistName" in row:
-        artists.add(row["artistName"].strip())
-    if "trackName" in row:
-        tracks.add((row["trackName"].strip(), row["artistName"].strip()))
+    if "trackName" in row and "artistName" in row:
+        name = row["trackName"].strip()
+        artist = row["artistName"].strip()
+        tracks.add((name, artist))
 
-artists = list(artists)
 tracks = list(tracks)
 
-print(len(artists), len(tracks))
+print("Unique tracks:", len(tracks))
 
+cache_path = Path("public/track_info.json")
 
-artist_cache_path = Path("public/artist_cache.json")
-track_cache_path = Path("public/track_cache.json")
-
-if artist_cache_path.exists():
-    with open(artist_cache_path, "r", encoding="utf-8") as f:
-        artist_cache = json.load(f)
+if cache_path.exists():
+    with open(cache_path, "r", encoding="utf-8") as f:
+        cache = json.load(f)
 else:
-    artist_cache = {}
+    cache = {}
 
-if track_cache_path.exists():
-    with open(track_cache_path, "r", encoding="utf-8") as f:
-        track_cache = json.load(f)
-else:
-    track_cache = {}
+cached_keys = set(cache.keys())
 
+REQUIRED_FIELDS = {
+    "id",
+    "key",
+    "mode",
+    "camelot",
+    "tempo",
+    "duration",
+    "popularity",
+    "energy",
+    "danceability",
+    "happiness",
+    "acousticness",
+    "instrumentalness",
+    "liveness",
+    "speechiness",
+    "loudness"
+}
 
-artistout = []
-trackout = []
+to_process = [
+    (n, a)
+    for (n, a) in tracks
+    if f"{n} | {a}" not in cached_keys
+]
 
-seenartists = set()
+print("Tracks to fetch:", len(to_process))
 
-i = 0
-while i < len(artists):
-    batch = artists[i:i+50]
+REQUESTS_BEFORE_PAUSE = 5
+PAUSE_TIME = 1.1
+request_counter = 0
 
-    for a in batch:
+for i, (name, artist) in enumerate(to_process):
+    key = f"{name} | {artist}"
 
-        if a in artist_cache:
-            art = artist_cache[a]
-
-            if art and art["id"] not in seenartists:
-                seenartists.add(art["id"])
-                artistout.append(art)
-
-            continue
-
-        retry = 0
-
-        while retry < 3:
-            try:
-                time.sleep(0.25)
-
-                r = client.search(q=f'artist:"{a}"', type="artist", limit=1)
-                items = r["artists"]["items"]
-
-                if items:
-                    art = items[0]
-                    artist_cache[a] = art
-
-                    if art["id"] not in seenartists:
-                        seenartists.add(art["id"])
-                        artistout.append(art)
-                else:
-                    artist_cache[a] = None
-
-                break
-
-            except spotipy.exceptions.SpotifyException as e:
-                if e.http_status == 429:
-                    wait = int(e.headers.get("Retry-After", 1))
-                    time.sleep(wait + 1)
-                else:
-                    time.sleep(2)
-
-            except Exception as e:
-                print("artist error:", e)
-                time.sleep(2)
-
-            retry += 1
-
-    with open(artist_cache_path, "w", encoding="utf-8") as f:
-        json.dump(artist_cache, f)
-
-    i += 50
-
-
-trackids = {}
-seentracks = set()
-
-j = 0
-while j < len(tracks):
-    n, a = tracks[j]
-    key = n + "||" + a
-    if key in track_cache:
-        tid = track_cache[key]
-
-        if tid and tid not in seentracks:
-            seentracks.add(tid)
-            trackids[(n, a)] = tid
-        j += 1
-        continue
     retry = 0
-    while retry < 3:
+    success = False
+
+    while retry < 3 and not success:
         try:
-            time.sleep(0.25)
-            q = f'track:"{n}" artist:"{a}"'
-            r = client.search(q=q, type="track", limit=1)
-            items = r["tracks"]["items"]
-            if items:
-                tid = items[0]["id"]
-                track_cache[key] = tid
+            response = requests.get(
+                BASE_URL,
+                headers=HEADERS,
+                params={"song": name, "artist": artist}
+            )
 
-                if tid not in seentracks:
-                    seentracks.add(tid)
-                    trackids[(n, a)] = tid
-            else:
-                track_cache[key] = None
-            break
+            if response.status_code == 200:
+                data = response.json()
 
-        except spotipy.exceptions.SpotifyException as e:
-            if e.http_status == 429:
-                wait = int(e.headers.get("Retry-After", 1))
+                if isinstance(data, dict):
+                    missing = REQUIRED_FIELDS - set(data.keys())
+
+                    if missing:
+                        print(f"Missing fields for {key}: {missing}")
+                        cache[key] = None
+                    else:
+                        cache[key] = data
+                else:
+                    cache[key] = None
+
+                success = True
+
+            elif response.status_code == 429:
+                wait = int(response.headers.get("Retry-After", 1))
+                print(f"Rate limited → waiting {wait}s")
                 time.sleep(wait + 1)
+
             else:
-                time.sleep(2)
+                print(f"API error {response.status_code} → {key}")
+                cache[key] = None
+                success = True
+
         except Exception as e:
-            print("track error:", e)
+            print(f"Request error for {key}: {e}")
             time.sleep(2)
+
         retry += 1
-    if j % 100 == 0:
-        with open(track_cache_path, "w", encoding="utf-8") as f:
-            json.dump(track_cache, f)
-    j += 1
-ids = list(trackids.values())
-i = 0
-while i < len(ids):
-    batch = ids[i:i+50]
-    retry = 0
-    while retry < 3:
-        try:
-            time.sleep(0.25)
-            r = client.tracks(batch)
-            trackout.extend(r["tracks"])
-            break
-        except spotipy.exceptions.SpotifyException as e:
-            if e.http_status == 429:
-                wait = int(e.headers.get("Retry-After", 1))
-                time.sleep(wait + 1)
-            else:
-                time.sleep(2)
-        except Exception as e:
-            print("batch error:", e)
-            time.sleep(2)
-        retry += 1
-    i += 50
 
-with open(artist_cache_path, "w", encoding="utf-8") as f:
-    json.dump(artist_cache, f)
+    if not success:
+        cache[key] = None
 
-with open(track_cache_path, "w", encoding="utf-8") as f:
-    json.dump(track_cache, f)
+    with open(cache_path, "w", encoding="utf-8") as f:
+        json.dump(cache, f, indent=2, ensure_ascii=False)
 
-with open(Path("public/artists.json"), "w", encoding="utf-8") as f:
-    json.dump(artistout, f)
+    cached_keys.add(key)
+    request_counter += 1
+    print(f"[{i + 1}/{len(to_process)}] {key}")
 
-with open(Path("public/tracks.json"), "w", encoding="utf-8") as f:
-    json.dump(trackout, f)
+    if request_counter % REQUESTS_BEFORE_PAUSE == 0:
+        print(f"Pausing after {REQUESTS_BEFORE_PAUSE} requests...")
+        time.sleep(PAUSE_TIME)
 
-print("done")
+print("Done. All tracks processed safely.")
